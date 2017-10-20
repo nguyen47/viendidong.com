@@ -1,0 +1,735 @@
+
+
+<!DOCTYPE html>
+<!--[if IE 6]> <html class="no-js lt-ie9 lt-ie8 lt-ie7 eq-ie6" lang="ja"> <![endif]-->
+<!--[if IE 7]> <html class="no-js lt-ie9 lt-ie8 eq-ie7" lang="ja"> <![endif]-->
+<!--[if IE 8]> <html class="no-js lt-ie9 eq-ie8" lang="ja"> <![endif]-->
+<!--[if gt IE 8]><!-->
+<html class="no-js" lang="vi" xmlns="http://www.w3.org/1999/xhtml">
+<!--<![endif]-->
+<head><meta http-equiv="X-UA-Compatible" content="IE=edge" /><meta name="viewport" content="width=device-width,initial-scale=1.0,minimum-scale=1.0,maximum-scale=1.0,user-scalable=no" /><meta charset="utf-8" /><title>
+	LG V20 LỘ ẢNH THỰC TẾ TRONG CLIP NGẮN
+</title>
+    <!--seo-->
+
+    <meta name="robots" content="index,follow" />
+    <!--OGP-->
+    <meta property="og:title" content="Viện Di Động" /><meta property="og:type" content="website" /><meta property="og:description" content="Viện Di Động" /><meta property="og:url" content="http://www.viendidong.com/" /><meta property="og:image" content="http://www.viendidong.com/images/ogp.jpg" /><meta property="og:site_name" content="Viện Di Động" /><meta property="og:email" content="cskh@viendidong.com" /><meta property="og:phone_number" content="00-0000-0000" />
+    <!--setting-->
+    <link rel="shortcut icon" href="../../../favicon.ico" /><meta name="format-detection" content="telephone=no" />
+    <!--favicon-->
+    <link rel="apple-touch-icon" href="../../../ico_home.jpg" />
+    <!--css-->
+
+    <link rel="stylesheet" href="../../../Content/bootstrap.css" /><link rel="stylesheet" href="../../../Content/normalize.css" /><link rel="stylesheet" href="../../../Content/module.css" /><link rel="stylesheet" href="../../../Content/font-awesome.css" /><link rel="stylesheet" href="../../../Content/common.css" /><link rel="stylesheet" href="../../../Content/index.css" /><link rel="stylesheet" href="../../../fonts/stylesheet.css" /><link rel="stylesheet" type="text/css" href="../../../Content/slick.css" /><link rel="stylesheet" type="text/css" href="../../../Content/slick-theme.css" /><link rel="stylesheet" href="../../../Content/animation.min.css" media="all" />
+
+    <style type="text/css">
+        .Opacity {
+            opacity: .5;
+        }
+
+            .Opacity:hover {
+                opacity: 1;
+            }
+    </style>
+
+
+
+    <!--[if lt IE 9]><script src="Scripts/vendor/html5shiv.js"></script><![endif]-->
+    <!--[if IE]><script src="Scripts/PIE.js"></script><![endif]-->
+    
+    <style type="text/css">
+        .Box{
+            padding-bottom: 20px;
+             padding-top: 20px;
+            border-bottom: 1px #CCCCCC solid;
+            margin-right: 10px;
+            text-align: justify;
+            background-color: #FFF;
+            border: 1px solid #dcdcdc;
+            -webkit-border-radius: 0 0 0 0;
+            -moz-border-radius: 0 0 0 0;
+            -khtml-border-radius: 0 0 0 0;
+            border-radius: 0 0 0 0;
+            margin: 10px 0px;
+        }
+        #NoidungTinTuc img 
+        {
+            max-width:100% !important;
+        }
+    </style>
+<meta name="description" />
+    <script>
+
+        (function (i, s, o, g, r, a, m) {
+            i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
+
+                (i[r].q = i[r].q || []).push(arguments)
+            }, i[r].l = 1 * new Date(); a = s.createElement(o),
+
+            m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
+
+        })(window, document, 'script', 'https://www.google-analytics.com/analytics.js', 'ga');
+
+
+
+        ga('create', 'UA-62560059-4', 'auto');
+
+        ga('send', 'pageview');
+
+
+
+    </script>
+<meta name="keywords" /><meta name="meta_tags" /></head>
+<body id="Top">
+    <form method="post" action="lg-v20-lo-anh-thuc-te-trong-clip-ngan" id="form1">
+<div class="aspNetHidden">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwULLTE2NjQwODkzMDQPFgIeE1ZhbGlkYXRlUmVxdWVzdE1vZGUCARYCZg9kFgICAw9kFgpmD2QWBgIBDxYCHgRUZXh0BeoSxJDhu4thIGNo4buJIDE6IFPhu5EgNjJBIFRy4bqnbiBRdWFuZyBLaOG6o2ksUC4gVCZhY2lyYztuIMSQ4buLbmgsIFEuMSwgVFAuSENNPGJyIC8+DQo8ZGl2IGlkPSJyYWRlUGFzdGVIZWxwZXIiIHN0eWxlPSJwb3NpdGlvbjogYWJzb2x1dGU7IGxlZnQ6IC0xMDAwMHB4OyBib3JkZXI6IDBweCBzb2xpZCByZWQ7IHRvcDogMHB4OyB3aWR0aDogMXB4OyBoZWlnaHQ6IDFweDsgb3ZlcmZsb3c6IGhpZGRlbjsiPg0KPHRhYmxlIGNsYXNzPSJyZ01hc3RlclRhYmxlIiBpZD0iY3RsMDBfQ29udGVudEJvZHlfUmFkR3JpZDFfY3RsMDAiIHN0eWxlPSJib3JkZXItY29sbGFwc2U6IHNlcGFyYXRlOyBmb250LXN0cmV0Y2g6IG5vcm1hbDsgZm9udC1zaXplOiAxMnB4OyBmb250LWZhbWlseTogJ1NlZ29lIFVJJywgQXJpYWwsIEhlbHZldGljYSwgc2Fucy1zZXJpZjsgbGluZS1oZWlnaHQ6IDE2cHg7IGNvbG9yOiAjMDAwMDAwOyB3aWR0aDogMTI2Ny4ycHg7IHRhYmxlLWxheW91dDogYXV0bzsgZW1wdHktY2VsbHM6IHNob3c7Ij4NCiAgICA8dGJvZHk+DQogICAgICAgIDx0ciBjbGFzcz0icmdSb3ciIGlkPSJjdGwwMF9Db250ZW50Qm9keV9SYWRHcmlkMV9jdGwwMF9fNiIgc3R5bGU9ImN1cnNvcjogZGVmYXVsdDsiPg0KICAgICAgICAgICAgPHRkIHN0eWxlPSJwYWRkaW5nOiA0cHggN3B4IDNweDsgYm9yZGVyLXN0eWxlOiBzb2xpZDsgYm9yZGVyLXRvcC13aWR0aDogMHB4OyBib3JkZXItcmlnaHQtd2lkdGg6IDBweDsgYm9yZGVyLWJvdHRvbS13aWR0aDogMXB4OyBib3JkZXItY29sb3I6ICNmZmZmZmYgI2U1ZTVlNTsiPg0KICAgICAgICAgICAgPGRpdiBzdHlsZT0iY2xlYXI6IGJvdGg7Ij48YSBocmVmPSJodHRwczovL3d3dy5nb29nbGUuY29tL21hcHMvcGxhY2UvMjQxK0hvJUMzJUEwbmcrViVDNCU4M24rVGglRTElQkIlQTUsK3BoJUM2JUIwJUUxJUJCJTlEbmcrOCwrUGglQzMlQkErTmh1JUUxJUJBJUFEbiwrSCVFMSVCQiU5MytDaCVDMyVBRCtNaW5oLCtWaSVFMSVCQiU4N3QrTmFtL0AxMC43OTk4NTIzLDEwNi42NjY5MzMzLDE3ei9kYXRhPSEzbTEhNGIxITRtNSEzbTQhMXMweDMxNzUyOTJmM2NmY2YxYmQ6MHhlYmM3MGFmNTk0ODQ5M2FmIThtMiEzZDEwLjc5OTg0NyE0ZDEwNi42NjkxMjIiIHRhcmdldD0iX2JsYW5rIiBzdHlsZT0iY29sb3I6ICMwMDAwMDA7Ij5T4buRIDI0MSBIbyZhZ3JhdmU7bmcgVsSDbiBUaOG7pSwgUC4gOCwgUS4gUGgmdWFjdXRlOyBOaHXhuq1uLCBUUC4gSENNPC9hPjwvZGl2Pg0KICAgICAgICAgICAgPC90ZD4NCiAgICAgICAgPC90cj4NCiAgICA8L3Rib2R5Pg0KPC90YWJsZT4NCjwvZGl2Pjxici8+xJDhu4thIGNo4buJIDI6IDxhIGhyZWY9Imh0dHBzOi8vd3d3Lmdvb2dsZS5jb20vbWFwcy9wbGFjZS9DJUMzJUI0bmcrVHkrVE5ISCtDJUMzJUI0bmcrTmdoJUUxJUJCJTg3K1ZpJUUxJUJCJTg3bitEaSslQzQlOTAlRTElQkIlOTluZy9AMTAuNzY5MjMyOSwxMDYuNjcxNjc1NywxN3ovZGF0YT0hNG01ITNtNCExczB4MzE3NTJlZGZkMGNmYmE4ZjoweGI1OWVlOGQ2MTQyYjNiZTchOG0yITNkMTAuNzY5MjMxITRkMTA2LjY3Mzg2MSIgdGFyZ2V0PSJfYmxhbmsiPlPhu5EgNjA4LCBMJmVjaXJjOyBI4buTbmcgUGhvbmcsIFAuIDEwLCBRLjEwLCBUUC5IQ008L2E+PGJyLz7EkOG7i2EgY2jhu4kgMzogPGEgaHJlZj0iaHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS9tYXBzL3BsYWNlLzI0MStIbyVDMyVBMG5nK1YlQzQlODNuK1RoJUUxJUJCJUE1LCtwaCVDNiVCMCVFMSVCQiU5RG5nKzgsK1BoJUMzJUJBK05odSVFMSVCQSVBRG4sK0glRTElQkIlOTMrQ2glQzMlQUQrTWluaCwrVmklRTElQkIlODd0K05hbS9AMTAuNzk5ODUyMywxMDYuNjY2OTMzMywxN3ovZGF0YT0hM20xITRiMSE0bTUhM200ITFzMHgzMTc1MjkyZjNjZmNmMWJkOjB4ZWJjNzBhZjU5NDg0OTNhZiE4bTIhM2QxMC43OTk4NDchNGQxMDYuNjY5MTIyIiB0YXJnZXQ9Il9ibGFuayI+U+G7kSAyNDEgSG8mYWdyYXZlO25nIFbEg24gVGjhu6UsIFAuIDgsIFEuIFBoJnVhY3V0ZTsgTmh14bqtbiwgVFAuIEhDTTwvYT48YnIvPsSQ4buLYSBjaOG7iSA0OiA8YSBocmVmPSJodHRwczovL3d3dy5nb29nbGUuY29tL21hcHMvcGxhY2UvMTc3K05ndXklRTElQkIlODVuK1YlQzQlODNuK0xpbmgsK1RoYW5oK0toJUMzJUFBLCslQzQlOTAlQzMlQTArTiVFMSVCQSVCNW5nLCtWaSVFMSVCQiU4N3QrTmFtL0AxNi4wNTk0NzI5LDEwOC4yMDYzNTgyLDE3ei9kYXRhPSEzbTEhNGIxITRtNSEzbTQhMXMweDMxNDIxOWI0MDJhM2MwNDU6MHhlZGNjM2E2MzUyZTQ5NGJmIThtMiEzZDE2LjA1OTQ3MjkhNGQxMDguMjA4NTQ2OSIgdGFyZ2V0PSJfYmxhbmsiPlPhu5EgMTc3IE5ndXnhu4VuIFbEg24gTGluaCwgVGhhbmggS2gmZWNpcmM7LCDEkCZhZ3JhdmU7IE7hurVuZzwvYT48YnIvPmQCAg8WAh8BBWFUxrAgduG6pW4ga+G7uSB0aHXhuq10IHbDoCB0cmEgY+G7qXUgdGnhur9uIMSR4buZIHPhu61hIGNo4butYSA6ICAxOTAwMjA1NyAtICgwMjgpNzEuMDYyLjA2Mjxici8+ZAIDDxYCHwEFPiBQaOG6o24gw4FuaCBDaOG6pXQgTMaw4bujbmcgROG7i2NoIFbhu6UgOiAJMDk5IDc4IDc5IDExOTxici8+ZAIBD2QWCAIBDxYCHwEFkQcgPGRpdj4gPGltZyBvbmNsaWNrPSJwYXJlbnQub3BlbignIycpIiBzcmM9Jy9JbWFnZXMvaW5kZXgvMTAzMjM0XzIxLjNoZXRob25nZGljaHZ1LnBuZycgYWx0PScnIGNsYXNzPSdpbWctcmVzcG9uc2l2ZSc+ICA8L2Rpdj4gPGRpdj4gPGltZyBvbmNsaWNrPSJwYXJlbnQub3BlbignaHR0cDovL3ZpZW5kaWRvbmcuY29tL2RpY2gtdnUtbm9pLWJhdC1zdS1raWVuLzUwLzIvbGlrZS1mYW5wYWdlLW5oYW4tcXVhLWxpZW4tdGF5JykiIHNyYz0nL0ltYWdlcy9pbmRleC8xMTEzMDRfc2xpZGUtbGlrZS1mYW5wYWdlLnBuZycgYWx0PScnIGNsYXNzPSdpbWctcmVzcG9uc2l2ZSc+ICA8L2Rpdj4gPGRpdj4gPGltZyBvbmNsaWNrPSJwYXJlbnQub3BlbignIycpIiBzcmM9Jy9JbWFnZXMvaW5kZXgvMTAyNTE1XzMuIGLhuqNvIGjDoG5oIHRy4buNbiDEkeG7nWkgc+G6o24gcGjhuqltLnBuZycgYWx0PScnIGNsYXNzPSdpbWctcmVzcG9uc2l2ZSc+ICA8L2Rpdj4gPGRpdj4gPGltZyBvbmNsaWNrPSJwYXJlbnQub3BlbignaHR0cHM6Ly93d3cuZmFjZWJvb2suY29tL3ZpZW5kaWRvbmcvcG9zdHMvMTg2NTYwMzY4MzY4MDMyMCcpIiBzcmM9Jy9JbWFnZXMvaW5kZXgvMTAzNTAxX15FMUU1NUJBRUM2ODI3MDBGODBBRTNGM0FFMjU2N0NCMDQyRUUzOEQ1MUY3NzUwREZBRF5waW1ncHNoX2Z1bGxzaXplX2Rpc3RyLnBuZycgYWx0PScnIGNsYXNzPSdpbWctcmVzcG9uc2l2ZSc+ICA8L2Rpdj4gPGRpdj4gPGltZyBvbmNsaWNrPSJwYXJlbnQub3BlbignaHR0cDovL3ZpZW5kaWRvbmcuY29tL2RpY2gtdnUtY2hpLXRpZXQvMzM0L3RoYXktdm8tcmVkLWlwaG9uZS02LTYtcGx1cycpIiBzcmM9Jy9JbWFnZXMvaW5kZXgvMTQ1MzUxX2Jhbm5lci1pcC1kby5wbmcnIGFsdD0nJyBjbGFzcz0naW1nLXJlc3BvbnNpdmUnPiAgPC9kaXY+ZAIDDxYCHwEFpQM8ZGl2PiA8ZGl2IGNsYXNzPSdpdGVtJz48aDM+VGjDtG5nIFRpbiBE4buLY2ggVuG7pSAgPC9oMz4gPC9kaXY+IDwvZGl2PjxkaXY+IDxkaXYgY2xhc3M9J2l0ZW0nPjxoMz5MaWtlIEZBTlBBR0UsIFF1w6AgVOG6t25nIGxp4buBbiB0YXkgIDwvaDM+IDwvZGl2PiA8L2Rpdj48ZGl2PiA8ZGl2IGNsYXNzPSdpdGVtJz48aDM+QuG6o28gSMOgbmggVHLhu41uIMSQ4budaSBT4bqjbiBQaOG6qW0gU2F1IEtoaSBT4butYSBDaOG7r2EgIDwvaDM+IDwvZGl2PiA8L2Rpdj48ZGl2PiA8ZGl2IGNsYXNzPSdpdGVtJz48aDM+R2nhuqNpIFBow6FwIFBo4bqnbiBN4buBbSAgPC9oMz4gPC9kaXY+IDwvZGl2PjxkaXY+IDxkaXYgY2xhc3M9J2l0ZW0nPjxoMz5UaGF5IFbhu48gUmVkIENobyBpUGhvbmUgNiwgNiBQbHVzICA8L2gzPiA8L2Rpdj4gPC9kaXY+ZAIFDxYCHwEF4gM8ZGl2Pg0KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPGltZyBvbmNsaWNrPSJwYXJlbnQub3BlbignaHR0cDovL3ZpZW5kaWRvbmcuY29tL2RpY2gtdnUtbm9pLWJhdC1zdS1raWVuLzQ0LzEyL3YtY2FyZScpIiBzcmM9Jy9JbWFnZXMvaW5kZXgvMTEyNjUzX3ZjYXJlLnBuZycgYWx0PScnIGNsYXNzPSdpbWctcmVzcG9uc2l2ZSc+DQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPC9kaXY+PGRpdj4NCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxpbWcgb25jbGljaz0icGFyZW50Lm9wZW4oJ2h0dHA6Ly92aWVuZGlkb25nLmNvbS9kaWNoLXZ1LW5vaS1iYXQtc3Uta2llbi80NS8xMi92LWxpZmUnKSIgc3JjPScvSW1hZ2VzL2luZGV4LzExMjcxMF92bGlmZS5wbmcnIGFsdD0nJyBjbGFzcz0naW1nLXJlc3BvbnNpdmUnPg0KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvZGl2PmQCBw8WAh8BBYsEPGRpdj4NCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxpbWcgb25jbGljaz0icGFyZW50Lm9wZW4oJ2h0dHA6Ly92aWVuZGlkb25nLmNvbS9kaWNoLXZ1LW5vaS1iYXQtc3Uta2llbi80Ni8xMi9tby1raG9hLWljbG91ZCcpIiBzcmM9Jy9JbWFnZXMvaW5kZXgvMTI0NTQyXzExLjZ2aWVuLnBuZycgYWx0PScnIGNsYXNzPSdpbWctcmVzcG9uc2l2ZSc+DQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPC9kaXY+PGRpdj4NCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxpbWcgb25jbGljaz0icGFyZW50Lm9wZW4oJ2h0dHA6Ly92aWVuZGlkb25nLmNvbS9kaWNoLXZ1LW5vaS1iYXQtc3Uta2llbi80Ny8xMi9reS10aHVhdC1lcC1raW5oLWNoYW4ta2hvbmcnKSIgc3JjPScvSW1hZ2VzL2luZGV4LzEyNDg0Ml8xMS42dmllbmVwa2luaC5wbmcnIGFsdD0nJyBjbGFzcz0naW1nLXJlc3BvbnNpdmUnPg0KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvZGl2PmQCAg9kFghmDxYCHwEFL0xHIFYyMCBM4buYIOG6ok5IIFRI4buwQyBU4bq+IFRST05HIENMSVAgTkfhuq5OZAIBDxYCHwEF5QNTYXUgbeG7mXQgdGjhu51pIGdpYW4gZMOgaSBpbSBs4bq3bmcsIHRow6wgdsOgbyBUaOG7qSAzLCBuZ8OgeSA2IHRow6FuZyA5IHThu5tpLiBMRyBz4bq9IGNow61uaCB0aOG7qWMgdHLDrG5oIGzDoG5nIHNpw6p1IHBo4bqpbSBMRyBWMjAgY+G7p2EgbcOsbmguIFRoaeG6v3QgYuG7iyDEkcaw4bujYyBow6kgbOG7mSB0cm9uZyBt4buZdCBDbGlwIG5n4bqvbi4NCkxHIGjhu6lhIGjhurluIHPhur0gY8OzIG5oaeG7gXUgxJFp4buBdSB0cm9uZyDEkeG7o2kgdOG7qyBzacOqdSBwaOG6qW0gbsOgeS4NCkxHIFYyMCBz4bq9IHThuq1wIHRydW5nIHbDoG8gdMOtbmggbsSDbmcgdHJ1eeG7gW4gdGjDtG5nIMSRYSBwaMawxqFuZyB0aeG7h24gduG7m2kgdHLhuqNpIG5naGnhu4dtIMOibSB0aGFuaCBjYW8gY+G6pXAgbmjhu50gdsOgbyBt4buRaSBxdWFuIGjhu4cgaOG7o3AgdMOhYyBnaeG7r2EgTEcgdsOgIEImTyBQbGF5IGPDuW5nIEJhbmcgJiBPbHVmc2VuLmQCAg8WAh8BBYY2PHAgc3R5bGU9InRleHQtYWxpZ246IGp1c3RpZnk7Ij48c3BhbiBzdHlsZT0iZm9udC1zaXplOiAxMnB0OyBmb250LWZhbWlseTogQXJpYWw7IGNvbG9yOiAjMDAwMDAwOyI+PHNwYW4gY2xhc3M9IkFwcGxlLXRhYi1zcGFuIiBzdHlsZT0id2hpdGUtc3BhY2U6IHByZTsiPgk8L3NwYW4+U2F1IG3hu5l0IHRo4budaSBnaWFuIGQmYWdyYXZlO2kgaW0gbOG6t25nLCB0aCZpZ3JhdmU7IHYmYWdyYXZlO28gVGjhu6kgMywgbmcmYWdyYXZlO3kgNiB0aCZhYWN1dGU7bmcgOSB04bubaS4gTEcgc+G6vSBjaCZpYWN1dGU7bmggdGjhu6ljIHRyJmlncmF2ZTtuaCBsJmFncmF2ZTtuZyBzaSZlY2lyYzt1IHBo4bqpbSBMRyBWMjAgY+G7p2EgbSZpZ3JhdmU7bmguIFRoaeG6v3QgYuG7iyDEkcaw4bujYyBoJmVhY3V0ZTsgbOG7mSB0cm9uZyBt4buZdCBDbGlwIG5n4bqvbi48L3NwYW4+PC9wPg0KPHAgc3R5bGU9InRleHQtYWxpZ246IGp1c3RpZnk7Ij48c3BhbiBzdHlsZT0iZm9udC1zaXplOiAxMnB0OyBmb250LWZhbWlseTogQXJpYWw7IGNvbG9yOiAjMDAwMDAwOyI+TEcgaOG7qWEgaOG6uW4gc+G6vSBjJm9hY3V0ZTsgbmhp4buBdSDEkWnhu4F1IHRyb25nIMSR4bujaSB04burIHNpJmVjaXJjO3UgcGjhuqltIG4mYWdyYXZlO3kuIDwvc3Bhbj48L3A+DQo8cCBzdHlsZT0idGV4dC1hbGlnbjoganVzdGlmeTsiPjxzcGFuIHN0eWxlPSJmb250LXNpemU6IDEycHQ7IGZvbnQtZmFtaWx5OiBBcmlhbDsgY29sb3I6ICMwMDAwMDA7Ij5MRyBWMjAgc+G6vSB04bqtcCB0cnVuZyB2JmFncmF2ZTtvIHQmaWFjdXRlO25oIG7Eg25nIHRydXnhu4FuIHRoJm9jaXJjO25nIMSRYSBwaMawxqFuZyB0aeG7h24gduG7m2kgdHLhuqNpIG5naGnhu4dtICZhY2lyYzttIHRoYW5oIGNhbyBj4bqlcCBuaOG7nSB2JmFncmF2ZTtvIG3hu5FpIHF1YW4gaOG7hyBo4bujcCB0JmFhY3V0ZTtjIGdp4buvYSBMRyB2JmFncmF2ZTsgQiZhbXA7TyBQbGF5IGMmdWdyYXZlO25nIEJhbmcgJmFtcDsgT2x1ZnNlbi4gPC9zcGFuPjwvcD4NCjxwIHN0eWxlPSJ0ZXh0LWFsaWduOiBqdXN0aWZ5OyI+PHNwYW4gc3R5bGU9ImZvbnQtc2l6ZTogMTJwdDsgZm9udC1mYW1pbHk6IEFyaWFsOyBjb2xvcjogIzAwMDAwMDsiPkxHIFYyMCBz4bq9IMSRxrDhu6NjIHBoJmFhY3V0ZTt0IGgmYWdyYXZlO25oIGMmdWdyYXZlO25nIG3hu5l0IHRhaSBuZ2hlIG1hbmcgdGjGsMahbmcgaGnhu4d1IEImYW1wO08uIMSQJmFjaXJjO3kgc+G6vSBsJmFncmF2ZTsgY2hp4bq/YyBzbWFydHBob25lIMSR4bqndSB0aSZlY2lyYztuIMSRxrDhu6NjIHRyYW5nIGLhu4sgY2hpcCAmYWNpcmM7bSB0aGFuaCAzMi1iaXQgREFDIFF1YWQgY2hpcC4gVGgmYWdyYXZlO25oIHBo4bqnbiBuJmFncmF2ZTt5IMSRxrDhu6NjIHRo4buxYyBoaeG7h24gduG7m2kgYyZvY2lyYztuZyBuZ2jhu4cgRVNTIGMmb2FjdXRlOyBraOG6oyBuxINuZyBraOG7rSB0aeG6v25nIOG7k24geHVuZyBxdWFuaCB04buRdCBoxqFuIHRo4bq/IGjhu4cgY2hpcCAmYWNpcmM7bSB0aGFuaCB0ciZlY2lyYztuIExHIFYxMC4gRVNTIHPhur0gY2h1eeG7g24gxJHhu5VpIHThuq1wIHRpbiBr4bu5IHRodeG6rXQgc+G7kSB0aCZhZ3JhdmU7bmggJmFjaXJjO20gdGhhbmggYW5hbG9nIG0mYWdyYXZlOyB0YWkgbmfGsOG7nWkgYyZvYWN1dGU7IHRo4buDIG5naGUgxJHGsOG7o2MgZOG7hSBkJmFncmF2ZTtuZy48L3NwYW4+PC9wPg0KPHAgc3R5bGU9InRleHQtYWxpZ246IGp1c3RpZnk7Ij48c3BhbiBzdHlsZT0iZm9udC1zaXplOiAxMnB0OyBmb250LWZhbWlseTogQXJpYWw7IGNvbG9yOiAjMDAwMDAwOyI+TEcgVjIwIGPFqW5nIMSRxrDhu6NjIEdvb2dsZSB4JmFhY3V0ZTtjIG5o4bqtbiBsJmFncmF2ZTsgY2hp4bq/YyBzbWFydHBob25lIMSR4bqndSB0aSZlY2lyYztuIHRyJmVjaXJjO24gdGjhu4sgdHLGsOG7nW5nIGwmZWNpcmM7biBr4buHIHbhu5tpIGjhu4cgxJFp4buBdSBoJmFncmF2ZTtuaCBBbmRyb2lkIHBoaSZlY2lyYztuIGLhuqNuIEFuZHJvaWQgNy4wPC9zcGFuPjwvcD4NCjxwIHN0eWxlPSJ0ZXh0LWFsaWduOiBqdXN0aWZ5OyI+PHNwYW4gc3R5bGU9ImZvbnQtc2l6ZTogMTJwdDsgZm9udC1mYW1pbHk6IEFyaWFsOyBjb2xvcjogIzAwMDAwMDsiPkMmYWFjdXRlO2MgdGgmb2NpcmM7bmcgc+G7kSBr4bu5IHRodeG6rXQga2gmYWFjdXRlO2MgY+G7p2EgTEcgVjIwIGPFqW5nIGLhu4sgciZvZ3JhdmU7IHLEqS48YnIgLz4NCjwvc3Bhbj48ZW0gc3R5bGU9ImZvbnQtc2l6ZTogMTJwdDsgY29sb3I6ICMwMDAwMDA7IGZvbnQtZmFtaWx5OiBBcmlhbDsgbGluZS1oZWlnaHQ6IDEuNDcxOyI+PHNwYW4gY2xhc3M9IkFwcGxlLXRhYi1zcGFuIiBzdHlsZT0id2hpdGUtc3BhY2U6IHByZTsiPgk8L3NwYW4+Q+G7pSB0aOG7gyBWMjAgxJHGsOG7o2MgdHJhbmcgYuG7iyBtJmFncmF2ZTtuIGgmaWdyYXZlO25oPC9lbT48c3BhbiBzdHlsZT0iZm9udC1zaXplOiAxMnB0OyBsaW5lLWhlaWdodDogMS40NzE7IGZvbnQtZmFtaWx5OiBBcmlhbDsgY29sb3I6ICMwMDAwMDA7Ij4gPC9zcGFuPjxzdHJvbmcgc3R5bGU9ImZvbnQtc2l6ZTogMTJwdDsgY29sb3I6ICMwMDAwMDA7IGZvbnQtZmFtaWx5OiBBcmlhbDsgbGluZS1oZWlnaHQ6IDEuNDcxOyI+MksgNSw1IGluY2g8L3N0cm9uZz48ZW0gc3R5bGU9ImZvbnQtc2l6ZTogMTJwdDsgY29sb3I6ICMwMDAwMDA7IGZvbnQtZmFtaWx5OiBBcmlhbDsgbGluZS1oZWlnaHQ6IDEuNDcxOyI+IHbhu5tpIMSR4buZIHBoJmFjaXJjO24gZ2nhuqNpPC9lbT48c3BhbiBzdHlsZT0iZm9udC1zaXplOiAxMnB0OyBsaW5lLWhlaWdodDogMS40NzE7IGZvbnQtZmFtaWx5OiBBcmlhbDsgY29sb3I6ICMwMDAwMDA7Ij4gPC9zcGFuPjxzdHJvbmcgc3R5bGU9ImZvbnQtc2l6ZTogMTJwdDsgY29sb3I6ICMwMDAwMDA7IGZvbnQtZmFtaWx5OiBBcmlhbDsgbGluZS1oZWlnaHQ6IDEuNDcxOyI+MTQ0MCB4IDI1NjAgcGl4ZWw8L3N0cm9uZz48c3BhbiBzdHlsZT0iZm9udC1zaXplOiAxMnB0OyBsaW5lLWhlaWdodDogMS40NzE7IGZvbnQtZmFtaWx5OiBBcmlhbDsgY29sb3I6ICMwMDAwMDA7Ij4gKCBDxaluZzxzcGFuIHN0eWxlPSJ3aGl0ZS1zcGFjZTogcHJlOyI+Jm5ic3A7PC9zcGFuPmdp4buRbmcgbmjGsCBtJmFncmF2ZTtuIGgmaWdyYXZlO25oIMSRxrDhu6NjIHRyYW5nIGLhu4sgdHImZWNpcmM7biBwaGkmZWNpcmM7biBi4bqjbiBMRyBWMTApPC9zcGFuPjxlbSBzdHlsZT0iZm9udC1zaXplOiAxMnB0OyBjb2xvcjogIzAwMDAwMDsgZm9udC1mYW1pbHk6IEFyaWFsOyBsaW5lLWhlaWdodDogMS40NzE7Ij4mbmJzcDs8YnIgLz4NCjxzcGFuIGNsYXNzPSJBcHBsZS10YWItc3BhbiIgc3R5bGU9IndoaXRlLXNwYWNlOiBwcmU7Ij4JPC9zcGFuPk0mYWdyYXZlO24gaCZpZ3JhdmU7bmggcGjhu6U8L2VtPjxzcGFuIHN0eWxlPSJmb250LXNpemU6IDEycHQ7IGxpbmUtaGVpZ2h0OiAxLjQ3MTsgZm9udC1mYW1pbHk6IEFyaWFsOyBjb2xvcjogIzAwMDAwMDsiPiA8L3NwYW4+PHN0cm9uZyBzdHlsZT0iZm9udC1zaXplOiAxMnB0OyBjb2xvcjogIzAwMDAwMDsgZm9udC1mYW1pbHk6IEFyaWFsOyBsaW5lLWhlaWdodDogMS40NzE7Ij4yLDEgaTwvc3Ryb25nPjxlbSBzdHlsZT0iZm9udC1zaXplOiAxMnB0OyBjb2xvcjogIzAwMDAwMDsgZm9udC1mYW1pbHk6IEFyaWFsOyBsaW5lLWhlaWdodDogMS40NzE7Ij48c3Ryb25nPm5jaDwvc3Ryb25nPiB24bubaSBjaOG6vyDEkeG7mSA8c3Ryb25nPmFsd2F5cyBvbi48YnIgLz4NCjwvc3Ryb25nPjwvZW0+PGVtIHN0eWxlPSJmb250LXNpemU6IDEycHQ7IGNvbG9yOiAjMDAwMDAwOyBmb250LWZhbWlseTogQXJpYWw7IGxpbmUtaGVpZ2h0OiAxLjQ3MTsiPjxzcGFuIGNsYXNzPSJBcHBsZS10YWItc3BhbiIgc3R5bGU9IndoaXRlLXNwYWNlOiBwcmU7Ij4JPC9zcGFuPk0mYWFjdXRlO3kgc+G7rSBk4bulbmcgYuG7mSB2aSB44butIGwmeWFjdXRlOzwvZW0+PHNwYW4gc3R5bGU9ImZvbnQtc2l6ZTogMTJwdDsgbGluZS1oZWlnaHQ6IDEuNDcxOyBmb250LWZhbWlseTogQXJpYWw7IGNvbG9yOiAjMDAwMDAwOyI+IDwvc3Bhbj48c3Ryb25nIHN0eWxlPSJmb250LXNpemU6IDEycHQ7IGNvbG9yOiAjMDAwMDAwOyBmb250LWZhbWlseTogQXJpYWw7IGxpbmUtaGVpZ2h0OiAxLjQ3MTsiPlF1YWxjb21tIFNuYXBkcmFnb24gODIwIDY0LWJpdCA0IG5oJmFjaXJjO248L3N0cm9uZz48c3BhbiBzdHlsZT0iZm9udC1zaXplOiAxMnB0OyBsaW5lLWhlaWdodDogMS40NzE7IGZvbnQtZmFtaWx5OiBBcmlhbDsgY29sb3I6ICMwMDAwMDA7Ij4sIHg8L3NwYW4+PGVtIHN0eWxlPSJmb250LXNpemU6IDEycHQ7IGNvbG9yOiAjMDAwMDAwOyBmb250LWZhbWlseTogQXJpYWw7IGxpbmUtaGVpZ2h0OiAxLjQ3MTsiPnVuZyBuaOG7i3AgdOG7kWkgxJFhIGwmZWNpcmM7biDEkeG6v24gPC9lbT48c3Ryb25nIHN0eWxlPSJmb250LXNpemU6IDEycHQ7IGNvbG9yOiAjMDAwMDAwOyBmb250LWZhbWlseTogQXJpYWw7IGxpbmUtaGVpZ2h0OiAxLjQ3MTsiPjIuMiBHSHo8YnIgLz4NCjwvc3Ryb25nPjxzdHJvbmcgc3R5bGU9ImZvbnQtc2l6ZTogMTJwdDsgY29sb3I6ICMwMDAwMDA7IGZvbnQtZmFtaWx5OiBBcmlhbDsgbGluZS1oZWlnaHQ6IDEuNDcxOyI+PHNwYW4gY2xhc3M9IkFwcGxlLXRhYi1zcGFuIiBzdHlsZT0id2hpdGUtc3BhY2U6IHByZTsiPgk8L3NwYW4+UkFNIDQgR0I8YnIgLz4NCjwvc3Ryb25nPjxlbSBzdHlsZT0iZm9udC1zaXplOiAxMnB0OyBjb2xvcjogIzAwMDAwMDsgZm9udC1mYW1pbHk6IEFyaWFsOyBsaW5lLWhlaWdodDogMS40NzE7Ij48c3BhbiBjbGFzcz0iQXBwbGUtdGFiLXNwYW4iIHN0eWxlPSJ3aGl0ZS1zcGFjZTogcHJlOyI+CTwvc3Bhbj5C4buZIE5o4bubIFRyb25nPC9lbT48c3BhbiBzdHlsZT0iZm9udC1zaXplOiAxMnB0OyBsaW5lLWhlaWdodDogMS40NzE7IGZvbnQtZmFtaWx5OiBBcmlhbDsgY29sb3I6ICMwMDAwMDA7Ij4gPC9zcGFuPjxzdHJvbmcgc3R5bGU9ImZvbnQtc2l6ZTogMTJwdDsgY29sb3I6ICMwMDAwMDA7IGZvbnQtZmFtaWx5OiBBcmlhbDsgbGluZS1oZWlnaHQ6IDEuNDcxOyI+NjQgR0I8L3N0cm9uZz48c3BhbiBzdHlsZT0iZm9udC1zaXplOiAxMnB0OyBsaW5lLWhlaWdodDogMS40NzE7IGZvbnQtZmFtaWx5OiBBcmlhbDsgY29sb3I6ICMwMDAwMDA7Ij4gPC9zcGFuPjxlbSBzdHlsZT0iZm9udC1zaXplOiAxMnB0OyBjb2xvcjogIzAwMDAwMDsgZm9udC1mYW1pbHk6IEFyaWFsOyBsaW5lLWhlaWdodDogMS40NzE7Ij52JmFncmF2ZTsgYyZvYWN1dGU7IHRo4buDIG3hu58gcuG7mW5nIGwmZWNpcmM7biDEkeG6v248L2VtPjxzcGFuIHN0eWxlPSJmb250LXNpemU6IDEycHQ7IGxpbmUtaGVpZ2h0OiAxLjQ3MTsgZm9udC1mYW1pbHk6IEFyaWFsOyBjb2xvcjogIzAwMDAwMDsiPiA8L3NwYW4+PHN0cm9uZyBzdHlsZT0iZm9udC1zaXplOiAxMnB0OyBjb2xvcjogIzAwMDAwMDsgZm9udC1mYW1pbHk6IEFyaWFsOyBsaW5lLWhlaWdodDogMS40NzE7Ij4yNTYgR0I8L3N0cm9uZz48c3BhbiBzdHlsZT0iZm9udC1zaXplOiAxMnB0OyBsaW5lLWhlaWdodDogMS40NzE7IGZvbnQtZmFtaWx5OiBBcmlhbDsgY29sb3I6ICMwMDAwMDA7Ij4gPC9zcGFuPjxlbSBzdHlsZT0iZm9udC1zaXplOiAxMnB0OyBjb2xvcjogIzAwMDAwMDsgZm9udC1mYW1pbHk6IEFyaWFsOyBsaW5lLWhlaWdodDogMS40NzE7Ij5uaOG7nSBraGUgY+G6r20gdGjhursgbmjhu5sgbWljcm9TRDxiciAvPg0KPC9lbT48ZW0gc3R5bGU9ImZvbnQtc2l6ZTogMTJwdDsgY29sb3I6ICMwMDAwMDA7IGZvbnQtZmFtaWx5OiBBcmlhbDsgbGluZS1oZWlnaHQ6IDEuNDcxOyI+PHNwYW4gY2xhc3M9IkFwcGxlLXRhYi1zcGFuIiBzdHlsZT0id2hpdGUtc3BhY2U6IHByZTsiPgk8L3NwYW4+RHVuZyBsxrDhu6NuZyBQaW4gbCZlY2lyYztuIMSR4bq/bjwvZW0+PHNwYW4gc3R5bGU9ImZvbnQtc2l6ZTogMTJwdDsgbGluZS1oZWlnaHQ6IDEuNDcxOyBmb250LWZhbWlseTogQXJpYWw7IGNvbG9yOiAjMDAwMDAwOyI+IDwvc3Bhbj48c3Ryb25nIHN0eWxlPSJmb250LXNpemU6IDEycHQ7IGNvbG9yOiAjMDAwMDAwOyBmb250LWZhbWlseTogQXJpYWw7IGxpbmUtaGVpZ2h0OiAxLjQ3MTsiPjQwMDAgbUFoPC9zdHJvbmc+PC9wPg0KPHA+PHNwYW4gc3R5bGU9ImZvbnQtc2l6ZTogMTJwdDsgZm9udC1mYW1pbHk6IEFyaWFsOyBjb2xvcjogIzAwMDAwMDsiPjxiciAvPg0KPC9zcGFuPjwvcD4NCjxpZnJhbWUgc3JjPSJodHRwczovL3ZpZC5tZS9lL3FkU2YiIHdpZHRoPSI4NTQiIGhlaWdodD0iNDgwIiBmcmFtZWJvcmRlcj0iMCIgc2Nyb2xsaW5nPSJubyI+PC9pZnJhbWU+DQo8YnIgLz4NCjxiciAvPg0KPHA+PHNwYW4gc3R5bGU9ImZvbnQtc2l6ZTogMTJwdDsgZm9udC1mYW1pbHk6IEFyaWFsOyBjb2xvcjogIzAwMDAwMDsiPlRyb25nIFZpZGVvIHRyJmVjaXJjO24sIGLhuqFuIHPhur0gdGjhuqV5IHNpJmVjaXJjO3UgcGjhuqltIGPhu6dhIGNoJnVhY3V0ZTtuZyB0YSB4deG6pXQgaGnhu4duIHThu6sgZ2kmYWNpcmM7eSB0aOG7qSAyNS4gVHV5IGNoxrBhIHRo4bqtdCBz4buxIGto4bqzbmcgxJHhu4tuaCDEkSZhY2lyYzt5IGMmb2FjdXRlOyBwaOG6o2kgbCZhZ3JhdmU7IExHIFYyMCB2JmlncmF2ZTsgc+G7sSB4deG6pXQgaGnhu4duIGPhu6dhIG4mb2FjdXRlOyBxdSZhYWN1dGU7IG5n4bqvbiBuZ+G7p2kgdHV5IG5oaSZlY2lyYztuLCBzbyB24bubaSBoJmlncmF2ZTtuaCDhuqNuaCDEkcaw4bujYyByJm9ncmF2ZTsgcuG7iSB0csaw4bubYyDEkSZvYWN1dGU7IHRoJmlncmF2ZTsgY2gmdWFjdXRlO25nIHRhIGMmb2FjdXRlOyB0aOG7gyBhbiB0JmFjaXJjO20gxJHhu4MgbiZvYWN1dGU7aSBy4bqxbmcgxJHhuqV5IGNoJmlhY3V0ZTtuaCBsJmFncmF2ZTsgTEcgVjIwLjwvc3Bhbj48L3A+ZAIDD2QWAgIBDxYCHwEFlwYgPGxpPjxpIGNsYXNzPSdmYS1saSBmYSBmYS1zcXVhcmUnPjwvaT48YSBocmVmPScvZGljaC12dS1ub2ktYmF0LXN1LWtpZW4vMTAvOC9tb2ktdGFpLXZlLWJhbi1jYXAtbmhhdC1pb3MtbW9pLW5oYXQtOTM1LXZhLWxvLWhvbmctY2hvLXBoZXAtamFpbGJyZWFrLXR1LXhhJz5N4budaSBU4bqjaSB24buBIGLhuqNuIEPhuq1wIG5o4bqtdCBpT1MgbeG7m2kgbmjhuqV0IDkuMy41IHbDoSBs4buXIGjhu5VuZyBjaG8gcGjDqXAgSmFpbGJyZWFrIHThu6sgeGEgPC9hPjwvbGk+IDxsaT48aSBjbGFzcz0nZmEtbGkgZmEgZmEtc3F1YXJlJz48L2k+PGEgaHJlZj0nL2RpY2gtdnUtbm9pLWJhdC1zdS1raWVuLzkvOC9odW9uZy1kYW4tdGVzdC1raGEtbmFuZy1jaG9uZy1udW9jLXNhbXN1bmctbm90ZS03LWtob25nLWNhbi1jaG8tdmFvLW51b2MtdGhhdCc+SMav4buaTkcgROG6qk4gVEVTVCBLSOG6oiBOxIJORyBDSOG7kE5HIE7Gr+G7mkMgU0FNU1VORyBOT1RFIDcgS0jDlE5HIEPhuqZOIENITyBWw4BPIE7Gr+G7mkMgVEjhuqxUIDwvYT48L2xpPiA8bGk+PGkgY2xhc3M9J2ZhLWxpIGZhIGZhLXNxdWFyZSc+PC9pPjxhIGhyZWY9Jy9kaWNoLXZ1LW5vaS1iYXQtc3Uta2llbi84LzgvZGFuaC1zYWNoLXRoaWV0LWJpLXNvbnktc2UtbGVuLWFuZHJvaWQtNzAtbm91Z2F0Oi1iYXQtbmdvLXZhbmctbWF0LXhwZXJpYS16Myc+RGFuaCBzw6FjaCB0aGnhur90IGLhu4sgU29ueSBz4bq9IGzDqm4gQW5kcm9pZCA3LjAgTm91Z2F0OiBC4bqldCBuZ+G7nSB24bqvbmcgbeG6t3QgWHBlcmlhIFozIDwvYT48L2xpPmQCAw9kFgICAQ8WAh8BBdELPGxpPjxhIGhyZWY9J2h0dHA6Ly92aWVuZGlkb25nLmNvbS9kYW8tdGFvJz48aW1nIHNyYz0nL2ltYWdlcy9jb21tb24vMTMzODEyX25hdmkwMS5wbmcnIGFsdD0nJyBjbGFzcz0naW1nLXJlc3BvbnNpdmUnPjxpbWcgc3JjPScvaW1hZ2VzL2NvbW1vbi8xMzM4MTJfbmF2aTAxX2hvdmVyLnBuZycgYWx0PScnIGNsYXNzPSdpbWctcmVzcG9uc2l2ZSBpbWctdG9wJz48c3Bhbj7EkMOgbyB04bqhbyBk4bqheSBuZ2jhu4E8L3NwYW4+PC9hPjwvbGk+PGxpPjxhIGhyZWY9J2h0dHA6Ly92aWVuZGlkb25nLmNvbS9kaWNoLXZ1Jz48aW1nIHNyYz0nL2ltYWdlcy9jb21tb24vMTMzODQyX25hdmkwMi5wbmcnIGFsdD0nJyBjbGFzcz0naW1nLXJlc3BvbnNpdmUnPjxpbWcgc3JjPScvaW1hZ2VzL2NvbW1vbi8xMzM4NDJfbmF2aTAyX2hvdmVyLnBuZycgYWx0PScnIGNsYXNzPSdpbWctcmVzcG9uc2l2ZSBpbWctdG9wJz48c3Bhbj5C4bqjbyBow6BuaCBz4butYSBjaOG7r2E8L3NwYW4+PC9hPjwvbGk+PGxpPjxhIGhyZWY9J2h0dHA6Ly92aWVuZGlkb25nLmNvbS90cmEtY3V1Jz48aW1nIHNyYz0nL2ltYWdlcy9jb21tb24vMTMzOTI5X25hdmkwMy5wbmcnIGFsdD0nJyBjbGFzcz0naW1nLXJlc3BvbnNpdmUnPjxpbWcgc3JjPScvaW1hZ2VzL2NvbW1vbi8xMzM5MjlfbmF2aTAzX2hvdmVyLnBuZycgYWx0PScnIGNsYXNzPSdpbWctcmVzcG9uc2l2ZSBpbWctdG9wJz48c3Bhbj5UcmEgY+G7qXUgdGjDtG5nIHRpbjwvc3Bhbj48L2E+PC9saT48bGk+PGEgaHJlZj0naHR0cDovL3ZpZW5kaWRvbmcuY29tL3RyYS1jdXUtZ2lhJz48aW1nIHNyYz0nL2ltYWdlcy9jb21tb24vMTM0MDA3X25hdmkwNC5wbmcnIGFsdD0nJyBjbGFzcz0naW1nLXJlc3BvbnNpdmUnPjxpbWcgc3JjPScvaW1hZ2VzL2NvbW1vbi8xMzQwMDdfbmF2aTA0X2hvdmVyLnBuZycgYWx0PScnIGNsYXNzPSdpbWctcmVzcG9uc2l2ZSBpbWctdG9wJz48c3Bhbj5C4bqjbmcgZ2nDoSBk4buLY2ggduG7pTwvc3Bhbj48L2E+PC9saT48bGk+PGEgaHJlZj0nLyMnPjxpbWcgc3JjPScvaW1hZ2VzL2NvbW1vbi8xMzQwMzVfbmF2aTA1LnBuZycgYWx0PScnIGNsYXNzPSdpbWctcmVzcG9uc2l2ZSc+PGltZyBzcmM9Jy9pbWFnZXMvY29tbW9uLzEzNDAzNV9uYXZpMDVfaG92ZXIucG5nJyBhbHQ9JycgY2xhc3M9J2ltZy1yZXNwb25zaXZlIGltZy10b3AnPjxzcGFuPkdp4bqjaSBwaMOhcCBjw7RuZyBuZ2jhu4c8L3NwYW4+PC9hPjwvbGk+PGxpPjxhIGhyZWY9J2h0dHA6Ly92aWVuZGlkb25nLmNvbS9iYW5nLWdpYS1QSyc+PGltZyBzcmM9Jy9pbWFnZXMvY29tbW9uLzEzNDEwM19uYXZpMDYucG5nJyBhbHQ9JycgY2xhc3M9J2ltZy1yZXNwb25zaXZlJz48aW1nIHNyYz0nL2ltYWdlcy9jb21tb24vMTM0MTAzX25hdmkwNl9ob3Zlci5wbmcnIGFsdD0nJyBjbGFzcz0naW1nLXJlc3BvbnNpdmUgaW1nLXRvcCc+PHNwYW4+TGluaCBraeG7h24gcGjhu6Uga2nhu4duPC9zcGFuPjwvYT48L2xpPmQCBQ9kFhhmDxYCHwEFoQQ8bGk+PGEgaHJlZj0nL3Rob25nLXRpbi85L2dpYWktZGFwLWhvLXRybycgY2xhc3M9J29LLW1vdmVSaWdodCc+R2nhuqNpIMSQw6FwICYgSOG7lyBUcuG7ozwvYT48L2xpPjxsaT48YSBocmVmPScvdGhvbmctdGluLzEvZ2lvaS10aGlldScgY2xhc3M9J29LLW1vdmVSaWdodCc+R2nhu5tpIHRoaeG7h3U8L2E+PC9saT48bGk+PGEgaHJlZj0nL3Rob25nLXRpbi8yL2Jhby1oYW5oLXN1YS1jaHVhJyBjbGFzcz0nb0stbW92ZVJpZ2h0Jz5C4bqjbyBow6BuaCBz4butYSBjaOG7r2E8L2E+PC9saT48bGk+PGEgaHJlZj0nL3Rob25nLXRpbi8zL2hvcC10YWMtZGljaC12dScgY2xhc3M9J29LLW1vdmVSaWdodCc+SOG7o3AgdMOhYyBk4buLY2ggduG7pTwvYT48L2xpPjxsaT48YSBocmVmPScvdGhvbmctdGluLzExL2hvLXRyby10dS14YScgY2xhc3M9J29LLW1vdmVSaWdodCc+SOG7lyBUcuG7oyBU4burIFhhPC9hPjwvbGk+PGxpPjxhIGhyZWY9Jy90aG9uZy10aW4vNy90dXllbi1kdW5nJyBjbGFzcz0nb0stbW92ZVJpZ2h0Jz5UdXnhu4NuIEThu6VuZzwvYT48L2xpPmQCAQ8WAh8BBQE3ZAICDxYCHwEFAzQ3OWQCAw8WAh8BBQQ1MTc2ZAIEDxYCHwEFBTYxODYyZAIFDxYCHwEFBzM4OCw1ODBkAgYPFgIfAQUzIDxiIGNsYXNzPSd0ZXh0LXJlZCc+MTkwMDIwNTcgLSAoMDI4KTcxLjA2Mi4wNjI8L2I+ZAIHDxYCHwEFJyA8YiBjbGFzcz0ndGV4dC1yZWQnPgkwOTkgNzggNzkgMTE5PC9iPmQCCA8WAh8BBeoBPGxpPiAgPHNwYW4gPjwvc3Bhbj4gPHNwYW4gc3R5bGU9ImZvbnQtc2l6ZTogMTNweDsgY29sb3I6ICM3ZjdmN2Y7Ij5HaeG7nSBsJmFncmF2ZTttIHZp4buHYzo8L3NwYW4+PGJyIC8+DQo8c3Ryb25nIGNsYXNzPSJ0ZXh0LXJlZCI+ODozMCAtIDE5OjAwICggVDIgLSBUNyApPC9zdHJvbmc+DQo8YnIgLz4NCjxzdHJvbmcgY2xhc3M9InRleHQtcmVkIj44OjMwIC0gMTU6MDAgQ048L3N0cm9uZz48YnIvPjwvbGk+ZAIJDxYCHwEF5wM8c3Bhbj48YSBocmVmPScvZGljaC12dS1jaGktdGlldC8xMTUvbW8ta2hvYS1pY2xvdWQtaXBob25lLTVzLTE2Z2InPi5N4bufIEtow7NhIGlDbG91ZCBpUGhvbmUgNVMgMTZHQjwvYT48L3NwYW4+PHNwYW4+PGEgaHJlZj0nL2RpY2gtdnUtY2hpLXRpZXQvMjg0L3RoYXktcGluLXNhbXN1bmctczYtYWN0aXZlJz4uVGhheSBQaW4gU0FNU1VORyBTNiBBY3RpdmU8L2E+PC9zcGFuPjxzcGFuPjxhIGhyZWY9Jy9kaWNoLXZ1LWNoaS10aWV0LzExOS90aGF5LWtpbmgtc2Ftc3VuZy1hOSc+LlRoYXkgS8OtbmggU0FNU1VORyBBOTwvYT48L3NwYW4+PHNwYW4+PGEgaHJlZj0nL2RpY2gtdnUtY2hpLXRpZXQvMTYvZXAta2luaC1pcGhvbmUtNnMnPi7DiXAgS8OtbmggaVBob25lIDZTPC9hPjwvc3Bhbj48c3Bhbj48YSBocmVmPScvZGljaC12dS1jaGktdGlldC84Ny90aGF5LWNhbS11bmctc29ueS16Myc+LlRoYXkgQ+G6o20g4buobmcgU09OWSBaMzwvYT48L3NwYW4+ZAIKDxYCHwEFSyAgPHA+IE5oYW5oIENoJm9hY3V0ZTtuZyAtIFV5IFQmaWFjdXRlO24gLSBDaHV5JmVjaXJjO24gTmdoaeG7h3AuPGJyIC8+PC9wPmQCCw8WAh8BBccSPGxpPiAgPHA+IFPhu5EgNjJBIFRy4bqnbiBRdWFuZyBLaOG6o2ksUC4gVCZhY2lyYztuIMSQ4buLbmgsIFEuMSwgVFAuSENNPGJyIC8+DQo8ZGl2IGlkPSJyYWRlUGFzdGVIZWxwZXIiIHN0eWxlPSJwb3NpdGlvbjogYWJzb2x1dGU7IGxlZnQ6IC0xMDAwMHB4OyBib3JkZXI6IDBweCBzb2xpZCByZWQ7IHRvcDogMHB4OyB3aWR0aDogMXB4OyBoZWlnaHQ6IDFweDsgb3ZlcmZsb3c6IGhpZGRlbjsiPg0KPHRhYmxlIGNsYXNzPSJyZ01hc3RlclRhYmxlIiBpZD0iY3RsMDBfQ29udGVudEJvZHlfUmFkR3JpZDFfY3RsMDAiIHN0eWxlPSJib3JkZXItY29sbGFwc2U6IHNlcGFyYXRlOyBmb250LXN0cmV0Y2g6IG5vcm1hbDsgZm9udC1zaXplOiAxMnB4OyBmb250LWZhbWlseTogJ1NlZ29lIFVJJywgQXJpYWwsIEhlbHZldGljYSwgc2Fucy1zZXJpZjsgbGluZS1oZWlnaHQ6IDE2cHg7IGNvbG9yOiAjMDAwMDAwOyB3aWR0aDogMTI2Ny4ycHg7IHRhYmxlLWxheW91dDogYXV0bzsgZW1wdHktY2VsbHM6IHNob3c7Ij4NCiAgICA8dGJvZHk+DQogICAgICAgIDx0ciBjbGFzcz0icmdSb3ciIGlkPSJjdGwwMF9Db250ZW50Qm9keV9SYWRHcmlkMV9jdGwwMF9fNiIgc3R5bGU9ImN1cnNvcjogZGVmYXVsdDsiPg0KICAgICAgICAgICAgPHRkIHN0eWxlPSJwYWRkaW5nOiA0cHggN3B4IDNweDsgYm9yZGVyLXN0eWxlOiBzb2xpZDsgYm9yZGVyLXRvcC13aWR0aDogMHB4OyBib3JkZXItcmlnaHQtd2lkdGg6IDBweDsgYm9yZGVyLWJvdHRvbS13aWR0aDogMXB4OyBib3JkZXItY29sb3I6ICNmZmZmZmYgI2U1ZTVlNTsiPg0KICAgICAgICAgICAgPGRpdiBzdHlsZT0iY2xlYXI6IGJvdGg7Ij48YSBocmVmPSJodHRwczovL3d3dy5nb29nbGUuY29tL21hcHMvcGxhY2UvMjQxK0hvJUMzJUEwbmcrViVDNCU4M24rVGglRTElQkIlQTUsK3BoJUM2JUIwJUUxJUJCJTlEbmcrOCwrUGglQzMlQkErTmh1JUUxJUJBJUFEbiwrSCVFMSVCQiU5MytDaCVDMyVBRCtNaW5oLCtWaSVFMSVCQiU4N3QrTmFtL0AxMC43OTk4NTIzLDEwNi42NjY5MzMzLDE3ei9kYXRhPSEzbTEhNGIxITRtNSEzbTQhMXMweDMxNzUyOTJmM2NmY2YxYmQ6MHhlYmM3MGFmNTk0ODQ5M2FmIThtMiEzZDEwLjc5OTg0NyE0ZDEwNi42NjkxMjIiIHRhcmdldD0iX2JsYW5rIiBzdHlsZT0iY29sb3I6ICMwMDAwMDA7Ij5T4buRIDI0MSBIbyZhZ3JhdmU7bmcgVsSDbiBUaOG7pSwgUC4gOCwgUS4gUGgmdWFjdXRlOyBOaHXhuq1uLCBUUC4gSENNPC9hPjwvZGl2Pg0KICAgICAgICAgICAgPC90ZD4NCiAgICAgICAgPC90cj4NCiAgICA8L3Rib2R5Pg0KPC90YWJsZT4NCjwvZGl2PjwvcD4gIDxwPiA8YSBocmVmPSJodHRwczovL3d3dy5nb29nbGUuY29tL21hcHMvcGxhY2UvQyVDMyVCNG5nK1R5K1ROSEgrQyVDMyVCNG5nK05naCVFMSVCQiU4NytWaSVFMSVCQiU4N24rRGkrJUM0JTkwJUUxJUJCJTk5bmcvQDEwLjc2OTIzMjksMTA2LjY3MTY3NTcsMTd6L2RhdGE9ITRtNSEzbTQhMXMweDMxNzUyZWRmZDBjZmJhOGY6MHhiNTllZThkNjE0MmIzYmU3IThtMiEzZDEwLjc2OTIzMSE0ZDEwNi42NzM4NjEiIHRhcmdldD0iX2JsYW5rIj5T4buRIDYwOCwgTCZlY2lyYzsgSOG7k25nIFBob25nLCBQLiAxMCwgUS4xMCwgVFAuSENNPC9hPjwvcD4gIDxwPiA8YSBocmVmPSJodHRwczovL3d3dy5nb29nbGUuY29tL21hcHMvcGxhY2UvMjQxK0hvJUMzJUEwbmcrViVDNCU4M24rVGglRTElQkIlQTUsK3BoJUM2JUIwJUUxJUJCJTlEbmcrOCwrUGglQzMlQkErTmh1JUUxJUJBJUFEbiwrSCVFMSVCQiU5MytDaCVDMyVBRCtNaW5oLCtWaSVFMSVCQiU4N3QrTmFtL0AxMC43OTk4NTIzLDEwNi42NjY5MzMzLDE3ei9kYXRhPSEzbTEhNGIxITRtNSEzbTQhMXMweDMxNzUyOTJmM2NmY2YxYmQ6MHhlYmM3MGFmNTk0ODQ5M2FmIThtMiEzZDEwLjc5OTg0NyE0ZDEwNi42NjkxMjIiIHRhcmdldD0iX2JsYW5rIj5T4buRIDI0MSBIbyZhZ3JhdmU7bmcgVsSDbiBUaOG7pSwgUC4gOCwgUS4gUGgmdWFjdXRlOyBOaHXhuq1uLCBUUC4gSENNPC9hPjwvcD4gIDxwPiA8YSBocmVmPSJodHRwczovL3d3dy5nb29nbGUuY29tL21hcHMvcGxhY2UvMTc3K05ndXklRTElQkIlODVuK1YlQzQlODNuK0xpbmgsK1RoYW5oK0toJUMzJUFBLCslQzQlOTAlQzMlQTArTiVFMSVCQSVCNW5nLCtWaSVFMSVCQiU4N3QrTmFtL0AxNi4wNTk0NzI5LDEwOC4yMDYzNTgyLDE3ei9kYXRhPSEzbTEhNGIxITRtNSEzbTQhMXMweDMxNDIxOWI0MDJhM2MwNDU6MHhlZGNjM2E2MzUyZTQ5NGJmIThtMiEzZDE2LjA1OTQ3MjkhNGQxMDguMjA4NTQ2OSIgdGFyZ2V0PSJfYmxhbmsiPlPhu5EgMTc3IE5ndXnhu4VuIFbEg24gTGluaCwgVGhhbmggS2gmZWNpcmM7LCDEkCZhZ3JhdmU7IE7hurVuZzwvYT48L3A+PC9saT5kZA==" />
+</div>
+
+        <script src='/Scripts/vendor/modernizr-2.6.2-respond-1.1.0.min.js'></script>
+        <div id="fb-root"></div>
+        <script>(function (d, s, id) {
+    var js, fjs = d.getElementsByTagName(s)[0];
+    if (d.getElementById(id)) return;
+    js = d.createElement(s); js.id = id;
+    js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.6";
+    fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+        <div id="Container">
+            
+                <script src='/Scripts/jquery.min.js'></script>
+                <header>
+                    <div class="header-inner">
+                        <div class="header-top">
+                            <div class="container cf">
+                                <div class="row">
+                                <div class="col-sm-2">
+
+                                    <p id="Logo"><a href='/'>
+                                        <img src='/images/common/logo_2.png' alt="" class="img-responsive oM-buzz" /></a></p>
+                                    <p class="tel  visible-xs"><a href="tel:19002057"><span><i class="fa fa-phone" aria-hidden="true"></i></span></a></p>
+                                </div>
+                                <div class="col-sm-10">
+                                    <div class="row">
+                                        <div class="col-md-8 col-sm-12">
+                                            <nav class="globalNavi">
+                                                <ul class="navi cf">
+                                                    <li><a href='/gioi-thieu'>Giới thiệu</a></li>
+                                                    <li><a href='/dao-tao'>Đào tạo </a>
+
+
+                                                    </li>
+                                                    <li class="dropdown"><a href='/dich-vu'>Dịch vụ</a>
+
+                                                    </li>
+                                                    <li class="dropdown"><a href='/hop-tac'>Hợp Tác</a>
+
+                                                    </li>
+                                                    <li><a href='/tuyen-dung'>Tuyển Dụng</a></li>
+
+                                                    <li><a href='/lien-he'>Liên hệ</a></li>
+
+                                                </ul>
+                                                <ul class="social visible-xs cf">
+                                                    <li class="blog"><a href="https://www.youtube.com/channel/UCWBgDBlv5Zxsa79y0M6bF6Q" target="_blank"><i class="fa fa-youtube" aria-hidden="true"></i></a></li>
+                                                    <li class="fb"><a href="https://www.facebook.com/viendidong" target="_blank"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
+                                                </ul>
+                                            </nav>
+                                            <!-- / #Navi -->
+                                        </div>
+                                        <div class="col-md-2 col-sm-12">
+                                            <div id="custom-search-input">
+                                                <div class="input-group col-md-12">
+                                                    <span class="input-group-btn">
+                                                        <button class="btn btn-info btn-lg" type="button" onclick="SearchData()">
+                                                            <i class="fa fa-search"></i>
+                                                        </button>
+                                                    </span>
+                                                    <input name="ctl00$ContentHeaderTop$txt_Search" type="text" id="ContentHeaderTop_txt_Search" class="form-control input-md Maxheight" onkeypress="runScript2(this)" placeholder="Bạn cần gì?" />
+
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="col-md-2 hot-phone text-center">
+                                            Hotlline 1900 2057
+                                        </div>
+                                        <!-- / .col -->
+
+                                        <!-- / .row -->
+
+                                    </div>
+                                </div>
+                                    </div>
+                            <!-- / .container -->
+                        </div>
+                        <!-- / .header-top -->
+                    </div>
+                        </div>
+                    <!-- / .header-inner -->
+                </header>
+                <div class="social-list">
+                    <ul class="social cf">
+                        <li class="blog"><a href="https://www.youtube.com/channel/UC9OjyRMO2tlBUeWNaKwUAkA/videos" target="_blank"><i class="fa fa-youtube" aria-hidden="true"></i></a></li>
+                        <li class="fb"><a href="https://www.facebook.com/viendidong/" target="_blank"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
+                        <li class="fm"><a href="#" onclick="show_box_mail();"><i class="fa fa-envelope-o" aria-hidden="true"></i></a></li>
+                        <li class="ff"><a href="#" onclick="return showPopup('hl');"><i class="fa fa-volume-control-phone" aria-hidden="true"></i></a></li>
+                        <li class="fb" id="Pagetop"><a href="#"><i class="fa fa-arrow-up" aria-hidden="true"></i></a></li>
+                    </ul>
+                    <!-- Box email -->
+                    <div id="box_mail1">
+                        <div id="bgpopupct"></div>
+                        <div id="box_mail" class="boxmailcss">
+                            <span class="close" onclick="tokenizeJavaScript:$('#box_mail1').hide();"></span>
+                            <h2 style="margin: 17px 17px 17px 34px; font-size: 1.6em;">Viện Di Động xin được hỗ trợ quý khách</h2>
+                            <div id="formBoxmail" style="padding-top: 43px;">
+                                <div id="error_mail"></div>
+                                <div>
+                                    <table>
+                                        <tbody>
+                                            <tr>
+                                                <td colspan="2">
+                                                    <div class="txtct">
+                                                        Tên họ:
+                                                    </div>
+                                                    <div class="row01">
+                                                        <input class="textbox txname" data-val="true" data-val-length="The field HoTen must be a string with a maximum length of 300." data-val-length-max="300" data-val-required="*" id="Contact_HoTen" name="Contact.HoTen" placeholder="Tên họ" type="text" value="" />
+                                                    </div>
+                                                </td>
+                                            </tr>
+                                            <tr>
+                                                <td>
+                                                    <div class="txtct">
+                                                        Số điện thoại:
+                                                    </div>
+                                                    <div class="row01 txphone">
+                                                        <input class="textbox" data-val="true" data-val-length="The field DienThoai must be a string with a maximum length of 150." data-val-length-max="150" data-val-required="*" id="Contact_DienThoai" name="Contact.DienThoai" placeholder="Số điện thoại ..." type="text" value="" />
+                                                    </div>
+                                                </td>
+                                                <td>
+                                                    <div class="txtct">
+                                                        Email:
+                                                    </div>
+                                                    <div class="row01 txphone">
+                                                        <input class="textbox" data-val="true" data-val-length="The field Email must be a string with a maximum length of 150." data-val-length-max="150" data-val-regex="*" data-val-regex-pattern="[A-Za-z0-9._%+-]+@[A-Za-z0-9.-]+\.[A-Za-z]{2,4}" data-val-required="*" id="Contact_Email" name="Contact.Email" placeholder="Email" type="text" value="" />
+                                                    </div>
+                                                </td>
+                                            </tr>
+                                            <tr>
+                                                <td colspan="2">
+                                                    <div class="txtct">
+                                                        Tiêu đề:
+                                                    </div>
+                                                    <div class="row01">
+                                                        <input class="textbox txname" id="Contact_TieuDe" name="Contact.TieuDe" placeholder="Tiêu đề ..." type="text" value="" />
+                                                    </div>
+                                                </td>
+                                            </tr>
+                                            <tr>
+                                                <td colspan="2">
+                                                    <div class="txtct">
+                                                        Nội dung:
+                                                    </div>
+                                                    <div class="row01" style="padding-top: 7px;">
+                                                        <textarea class="textbox txnoidung" cols="20" data-val="true" data-val-length="The field NoiDung must be a string with a maximum length of 5000." data-val-length-max="5000" data-val-required="*" id="Contact_NoiDung" name="Contact.NoiDung" placeholder="Nội dung ..." rows="2">
+                                              </textarea>
+                                                    </div>
+                                                </td>
+                                            </tr>
+                                        </tbody>
+                                    </table>
+                                    <div class="btn btn-info" onclick="buttonSend()">Gửi</div>
+                                    <div class="modal" style="display: none">
+                                        <div class="center">
+                                            <img alt="" src='/Images/ajax-loader.gif' style="border-radius: 50%;" />
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- hottline -->
+                    <div class="hottline">
+                        <div id="bgpopuphl" onclick="return hidepopup('hl')"></div>
+                        <div id="popuphl" style="display: none; padding: 12px; max-height: 300px">
+                            <img src='/images/index/Closepopup.png' class="closepup" onclick="return hidepopup('hl')" />
+                            <div class="ttle">
+                                <div style="border: 1px solid #fff701; background: #fff701;">
+                                    <h3>Thông tin hotline</h3>
+                                </div>
+                            </div>
+                            <p style="padding-left: 5px">
+                                Mọi chi tiết xin vui lòng liên hệ Trung tâm Đào tạo - Bảo Hành - Sửa chữa Điện thoại di động<br />
+                                Địa chỉ 1: Số 62A Trần Quang Khải,P. T&acirc;n Định, Q.1, TP.HCM<br />
+<div id="radePasteHelper" style="position: absolute; left: -10000px; border: 0px solid red; top: 0px; width: 1px; height: 1px; overflow: hidden;">
+<table class="rgMasterTable" id="ctl00_ContentBody_RadGrid1_ctl00" style="border-collapse: separate; font-stretch: normal; font-size: 12px; font-family: 'Segoe UI', Arial, Helvetica, sans-serif; line-height: 16px; color: #000000; width: 1267.2px; table-layout: auto; empty-cells: show;">
+    <tbody>
+        <tr class="rgRow" id="ctl00_ContentBody_RadGrid1_ctl00__6" style="cursor: default;">
+            <td style="padding: 4px 7px 3px; border-style: solid; border-top-width: 0px; border-right-width: 0px; border-bottom-width: 1px; border-color: #ffffff #e5e5e5;">
+            <div style="clear: both;"><a href="https://www.google.com/maps/place/241+Ho%C3%A0ng+V%C4%83n+Th%E1%BB%A5,+ph%C6%B0%E1%BB%9Dng+8,+Ph%C3%BA+Nhu%E1%BA%ADn,+H%E1%BB%93+Ch%C3%AD+Minh,+Vi%E1%BB%87t+Nam/@10.7998523,106.6669333,17z/data=!3m1!4b1!4m5!3m4!1s0x3175292f3cfcf1bd:0xebc70af5948493af!8m2!3d10.799847!4d106.669122" target="_blank" style="color: #000000;">Số 241 Ho&agrave;ng Văn Thụ, P. 8, Q. Ph&uacute; Nhuận, TP. HCM</a></div>
+            </td>
+        </tr>
+    </tbody>
+</table>
+</div><br/>Địa chỉ 2: <a href="https://www.google.com/maps/place/C%C3%B4ng+Ty+TNHH+C%C3%B4ng+Ngh%E1%BB%87+Vi%E1%BB%87n+Di+%C4%90%E1%BB%99ng/@10.7692329,106.6716757,17z/data=!4m5!3m4!1s0x31752edfd0cfba8f:0xb59ee8d6142b3be7!8m2!3d10.769231!4d106.673861" target="_blank">Số 608, L&ecirc; Hồng Phong, P. 10, Q.10, TP.HCM</a><br/>Địa chỉ 3: <a href="https://www.google.com/maps/place/241+Ho%C3%A0ng+V%C4%83n+Th%E1%BB%A5,+ph%C6%B0%E1%BB%9Dng+8,+Ph%C3%BA+Nhu%E1%BA%ADn,+H%E1%BB%93+Ch%C3%AD+Minh,+Vi%E1%BB%87t+Nam/@10.7998523,106.6669333,17z/data=!3m1!4b1!4m5!3m4!1s0x3175292f3cfcf1bd:0xebc70af5948493af!8m2!3d10.799847!4d106.669122" target="_blank">Số 241 Ho&agrave;ng Văn Thụ, P. 8, Q. Ph&uacute; Nhuận, TP. HCM</a><br/>Địa chỉ 4: <a href="https://www.google.com/maps/place/177+Nguy%E1%BB%85n+V%C4%83n+Linh,+Thanh+Kh%C3%AA,+%C4%90%C3%A0+N%E1%BA%B5ng,+Vi%E1%BB%87t+Nam/@16.0594729,108.2063582,17z/data=!3m1!4b1!4m5!3m4!1s0x314219b402a3c045:0xedcc3a6352e494bf!8m2!3d16.0594729!4d108.2085469" target="_blank">Số 177 Nguyễn Văn Linh, Thanh Kh&ecirc;, Đ&agrave; Nẵng</a><br/>
+                                Tư vấn kỹ thuật và tra cứu tiến độ sửa chửa :  19002057 - (028)71.062.062<br/>
+                                 Phản Ánh Chất Lượng Dịch Vụ : 	099 78 79 119<br/>
+                                Email : cskh@viendidong.com<br />
+                            </p>
+
+                        </div>
+                    </div>
+                </div>
+                <!-- / .social-list -->
+            
+            
+                <section id="Mainvisual">
+
+                    <div class="container">
+                            <div class="row no-gutter" style="    margin-top: 5px;">
+                                <div class="col-md-8 slider-left">
+                                    <section class="slider-for slider">
+                                     <div> <img onclick="parent.open('#')" src='/Images/index/103234_21.3hethongdichvu.png' alt='' class='img-responsive'>  </div> <div> <img onclick="parent.open('http://viendidong.com/dich-vu-noi-bat-su-kien/50/2/like-fanpage-nhan-qua-lien-tay')" src='/Images/index/111304_slide-like-fanpage.png' alt='' class='img-responsive'>  </div> <div> <img onclick="parent.open('#')" src='/Images/index/102515_3. bảo hành trọn đời sản phẩm.png' alt='' class='img-responsive'>  </div> <div> <img onclick="parent.open('https://www.facebook.com/viendidong/posts/1865603683680320')" src='/Images/index/103501_^E1E55BAEC682700F80AE3F3AE2567CB042EE38D51F7750DFAD^pimgpsh_fullsize_distr.png' alt='' class='img-responsive'>  </div> <div> <img onclick="parent.open('http://viendidong.com/dich-vu-chi-tiet/334/thay-vo-red-iphone-6-6-plus')" src='/Images/index/145351_banner-ip-do.png' alt='' class='img-responsive'>  </div>
+                                   
+                                </section>
+                                <section class="slider-nav slider">
+                                    <div> <div class='item'><h3>Thông Tin Dịch Vụ  </h3> </div> </div><div> <div class='item'><h3>Like FANPAGE, Quà Tặng liền tay  </h3> </div> </div><div> <div class='item'><h3>Bảo Hành Trọn Đời Sản Phẩm Sau Khi Sửa Chữa  </h3> </div> </div><div> <div class='item'><h3>Giải Pháp Phần Mềm  </h3> </div> </div><div> <div class='item'><h3>Thay Vỏ Red Cho iPhone 6, 6 Plus  </h3> </div> </div>
+                                   
+                                </section>
+                            </div>
+                            <div class="col-md-4 sp-mt-10 slider-right">
+                                <section class="slider-right01 slider">
+                                    <div>
+                                    <img onclick="parent.open('http://viendidong.com/dich-vu-noi-bat-su-kien/44/12/v-care')" src='/Images/index/112653_vcare.png' alt='' class='img-responsive'>
+                                  </div><div>
+                                    <img onclick="parent.open('http://viendidong.com/dich-vu-noi-bat-su-kien/45/12/v-life')" src='/Images/index/112710_vlife.png' alt='' class='img-responsive'>
+                                  </div>
+                                  
+                                </section>
+                                <section class="slider-right02 slider">
+                                    <div>
+                                    <img onclick="parent.open('http://viendidong.com/dich-vu-noi-bat-su-kien/46/12/mo-khoa-icloud')" src='/Images/index/124542_11.6vien.png' alt='' class='img-responsive'>
+                                  </div><div>
+                                    <img onclick="parent.open('http://viendidong.com/dich-vu-noi-bat-su-kien/47/12/ky-thuat-ep-kinh-chan-khong')" src='/Images/index/124842_11.6vienepkinh.png' alt='' class='img-responsive'>
+                                  </div>
+                                    
+                                </section>
+                            </div>
+                        </div>
+                    </div>
+                    <!--/ Slider -->
+                </section>
+                <!--/ Mainvisual -->
+            
+            <section id="Content">
+                <section id="Content-inner">
+                    
+   
+        <link rel="stylesheet" href='/Content/news.css' />
+    <div class="container">
+        <div id="Main" class="col-md-12 col-sm-12 mt-sp Box" >         
+            	<article id="Training">
+              	 <div class="training-info">            
+                    
+                  <div class="secsion-block">
+                      <div class="col-md-12">
+                          <h1 class="ttl-h3"><i class="fa fa-newspaper-o pr-10" aria-hidden="true"></i>
+                          LG V20 LỘ ẢNH THỰC TẾ TRONG CLIP NGẮN</h1>
+                          <br />
+                    <p class="txt01 mt-20" style="display:none">
+                        Sau một thời gian dài im lặng, thì vào Thứ 3, ngày 6 tháng 9 tới. LG sẽ chính thức trình làng siêu phẩm LG V20 của mình. Thiết bị được hé lộ trong một Clip ngắn.
+LG hứa hẹn sẽ có nhiều điều trong đợi từ siêu phẩm này.
+LG V20 sẽ tập trung vào tính năng truyền thông đa phương tiện với trải nghiệm âm thanh cao cấp nhờ vào mối quan hệ hợp tác giữa LG và B&O Play cùng Bang & Olufsen.</p>
+                    
+                    <div class="block-info" id="NoidungTinTuc">
+                        <p style="text-align: justify;"><span style="font-size: 12pt; font-family: Arial; color: #000000;"><span class="Apple-tab-span" style="white-space: pre;">	</span>Sau một thời gian d&agrave;i im lặng, th&igrave; v&agrave;o Thứ 3, ng&agrave;y 6 th&aacute;ng 9 tới. LG sẽ ch&iacute;nh thức tr&igrave;nh l&agrave;ng si&ecirc;u phẩm LG V20 của m&igrave;nh. Thiết bị được h&eacute; lộ trong một Clip ngắn.</span></p>
+<p style="text-align: justify;"><span style="font-size: 12pt; font-family: Arial; color: #000000;">LG hứa hẹn sẽ c&oacute; nhiều điều trong đợi từ si&ecirc;u phẩm n&agrave;y. </span></p>
+<p style="text-align: justify;"><span style="font-size: 12pt; font-family: Arial; color: #000000;">LG V20 sẽ tập trung v&agrave;o t&iacute;nh năng truyền th&ocirc;ng đa phương tiện với trải nghiệm &acirc;m thanh cao cấp nhờ v&agrave;o mối quan hệ hợp t&aacute;c giữa LG v&agrave; B&amp;O Play c&ugrave;ng Bang &amp; Olufsen. </span></p>
+<p style="text-align: justify;"><span style="font-size: 12pt; font-family: Arial; color: #000000;">LG V20 sẽ được ph&aacute;t h&agrave;nh c&ugrave;ng một tai nghe mang thương hiệu B&amp;O. Đ&acirc;y sẽ l&agrave; chiếc smartphone đầu ti&ecirc;n được trang bị chip &acirc;m thanh 32-bit DAC Quad chip. Th&agrave;nh phần n&agrave;y được thực hiện với c&ocirc;ng nghệ ESS c&oacute; khả năng khử tiếng ồn xung quanh tốt hơn thế hệ chip &acirc;m thanh tr&ecirc;n LG V10. ESS sẽ chuyển đổi tập tin kỹ thuật số th&agrave;nh &acirc;m thanh analog m&agrave; tai người c&oacute; thể nghe được dễ d&agrave;ng.</span></p>
+<p style="text-align: justify;"><span style="font-size: 12pt; font-family: Arial; color: #000000;">LG V20 cũng được Google x&aacute;c nhận l&agrave; chiếc smartphone đầu ti&ecirc;n tr&ecirc;n thị trường l&ecirc;n kệ với hệ điều h&agrave;nh Android phi&ecirc;n bản Android 7.0</span></p>
+<p style="text-align: justify;"><span style="font-size: 12pt; font-family: Arial; color: #000000;">C&aacute;c th&ocirc;ng số kỹ thuật kh&aacute;c của LG V20 cũng bị r&ograve; rĩ.<br />
+</span><em style="font-size: 12pt; color: #000000; font-family: Arial; line-height: 1.471;"><span class="Apple-tab-span" style="white-space: pre;">	</span>Cụ thể V20 được trang bị m&agrave;n h&igrave;nh</em><span style="font-size: 12pt; line-height: 1.471; font-family: Arial; color: #000000;"> </span><strong style="font-size: 12pt; color: #000000; font-family: Arial; line-height: 1.471;">2K 5,5 inch</strong><em style="font-size: 12pt; color: #000000; font-family: Arial; line-height: 1.471;"> với độ ph&acirc;n giải</em><span style="font-size: 12pt; line-height: 1.471; font-family: Arial; color: #000000;"> </span><strong style="font-size: 12pt; color: #000000; font-family: Arial; line-height: 1.471;">1440 x 2560 pixel</strong><span style="font-size: 12pt; line-height: 1.471; font-family: Arial; color: #000000;"> ( Cũng<span style="white-space: pre;">&nbsp;</span>giống như m&agrave;n h&igrave;nh được trang bị tr&ecirc;n phi&ecirc;n bản LG V10)</span><em style="font-size: 12pt; color: #000000; font-family: Arial; line-height: 1.471;">&nbsp;<br />
+<span class="Apple-tab-span" style="white-space: pre;">	</span>M&agrave;n h&igrave;nh phụ</em><span style="font-size: 12pt; line-height: 1.471; font-family: Arial; color: #000000;"> </span><strong style="font-size: 12pt; color: #000000; font-family: Arial; line-height: 1.471;">2,1 i</strong><em style="font-size: 12pt; color: #000000; font-family: Arial; line-height: 1.471;"><strong>nch</strong> với chế độ <strong>always on.<br />
+</strong></em><em style="font-size: 12pt; color: #000000; font-family: Arial; line-height: 1.471;"><span class="Apple-tab-span" style="white-space: pre;">	</span>M&aacute;y sử dụng bộ vi xử l&yacute;</em><span style="font-size: 12pt; line-height: 1.471; font-family: Arial; color: #000000;"> </span><strong style="font-size: 12pt; color: #000000; font-family: Arial; line-height: 1.471;">Qualcomm Snapdragon 820 64-bit 4 nh&acirc;n</strong><span style="font-size: 12pt; line-height: 1.471; font-family: Arial; color: #000000;">, x</span><em style="font-size: 12pt; color: #000000; font-family: Arial; line-height: 1.471;">ung nhịp tối đa l&ecirc;n đến </em><strong style="font-size: 12pt; color: #000000; font-family: Arial; line-height: 1.471;">2.2 GHz<br />
+</strong><strong style="font-size: 12pt; color: #000000; font-family: Arial; line-height: 1.471;"><span class="Apple-tab-span" style="white-space: pre;">	</span>RAM 4 GB<br />
+</strong><em style="font-size: 12pt; color: #000000; font-family: Arial; line-height: 1.471;"><span class="Apple-tab-span" style="white-space: pre;">	</span>Bộ Nhớ Trong</em><span style="font-size: 12pt; line-height: 1.471; font-family: Arial; color: #000000;"> </span><strong style="font-size: 12pt; color: #000000; font-family: Arial; line-height: 1.471;">64 GB</strong><span style="font-size: 12pt; line-height: 1.471; font-family: Arial; color: #000000;"> </span><em style="font-size: 12pt; color: #000000; font-family: Arial; line-height: 1.471;">v&agrave; c&oacute; thể mở rộng l&ecirc;n đến</em><span style="font-size: 12pt; line-height: 1.471; font-family: Arial; color: #000000;"> </span><strong style="font-size: 12pt; color: #000000; font-family: Arial; line-height: 1.471;">256 GB</strong><span style="font-size: 12pt; line-height: 1.471; font-family: Arial; color: #000000;"> </span><em style="font-size: 12pt; color: #000000; font-family: Arial; line-height: 1.471;">nhờ khe cắm thẻ nhớ microSD<br />
+</em><em style="font-size: 12pt; color: #000000; font-family: Arial; line-height: 1.471;"><span class="Apple-tab-span" style="white-space: pre;">	</span>Dung lượng Pin l&ecirc;n đến</em><span style="font-size: 12pt; line-height: 1.471; font-family: Arial; color: #000000;"> </span><strong style="font-size: 12pt; color: #000000; font-family: Arial; line-height: 1.471;">4000 mAh</strong></p>
+<p><span style="font-size: 12pt; font-family: Arial; color: #000000;"><br />
+</span></p>
+<iframe src="https://vid.me/e/qdSf" width="854" height="480" frameborder="0" scrolling="no"></iframe>
+<br />
+<br />
+<p><span style="font-size: 12pt; font-family: Arial; color: #000000;">Trong Video tr&ecirc;n, bạn sẽ thấy si&ecirc;u phẩm của ch&uacute;ng ta xuất hiện từ gi&acirc;y thứ 25. Tuy chưa thật sự khẳng định đ&acirc;y c&oacute; phải l&agrave; LG V20 v&igrave; sự xuất hiện của n&oacute; qu&aacute; ngắn ngủi tuy nhi&ecirc;n, so với h&igrave;nh ảnh được r&ograve; rỉ trước đ&oacute; th&igrave; ch&uacute;ng ta c&oacute; thể an t&acirc;m để n&oacute;i rằng đấy ch&iacute;nh l&agrave; LG V20.</span></p>
+                    </div>
+                          
+                        <div id="ContentPlaceBody_LienQUan" class="secsion-block">
+
+                        	<h4 class="ttl-h3"style="background: #f5f17a;padding: 2px;color: black;text-transform:capitalize;padding-left:10px">    Tin Liên quan</h4>
+                            <div class="block-info2">
+                                <ul class="fa-ul">
+                                     <li><i class='fa-li fa fa-square'></i><a href='/dich-vu-noi-bat-su-kien/10/8/moi-tai-ve-ban-cap-nhat-ios-moi-nhat-935-va-lo-hong-cho-phep-jailbreak-tu-xa'>Mời Tải về bản Cập nhật iOS mới nhất 9.3.5 vá lỗ hổng cho phép Jailbreak từ xa </a></li> <li><i class='fa-li fa fa-square'></i><a href='/dich-vu-noi-bat-su-kien/9/8/huong-dan-test-kha-nang-chong-nuoc-samsung-note-7-khong-can-cho-vao-nuoc-that'>HƯỚNG DẪN TEST KHẢ NĂNG CHỐNG NƯỚC SAMSUNG NOTE 7 KHÔNG CẦN CHO VÀO NƯỚC THẬT </a></li> <li><i class='fa-li fa fa-square'></i><a href='/dich-vu-noi-bat-su-kien/8/8/danh-sach-thiet-bi-sony-se-len-android-70-nougat:-bat-ngo-vang-mat-xperia-z3'>Danh sách thiết bị Sony sẽ lên Android 7.0 Nougat: Bất ngờ vắng mặt Xperia Z3 </a></li>
+                                    
+                                </ul>
+                            </div>
+                        </div>
+                      </div>
+                      
+                    
+                    
+                  </div><!--/ secsion-block -->   
+                       
+                </div><!--/ training-info -->   
+              </article><!--/ Training-info -->                
+            </div><!--/ #Main -->
+    </div>
+
+                    
+                        <br />
+                        <div class="navi-common">
+                            <ul class="list-navi">
+                                <li><a href='http://viendidong.com/dao-tao'><img src='/images/common/133812_navi01.png' alt='' class='img-responsive'><img src='/images/common/133812_navi01_hover.png' alt='' class='img-responsive img-top'><span>Đào tạo dạy nghề</span></a></li><li><a href='http://viendidong.com/dich-vu'><img src='/images/common/133842_navi02.png' alt='' class='img-responsive'><img src='/images/common/133842_navi02_hover.png' alt='' class='img-responsive img-top'><span>Bảo hành sửa chữa</span></a></li><li><a href='http://viendidong.com/tra-cuu'><img src='/images/common/133929_navi03.png' alt='' class='img-responsive'><img src='/images/common/133929_navi03_hover.png' alt='' class='img-responsive img-top'><span>Tra cứu thông tin</span></a></li><li><a href='http://viendidong.com/tra-cuu-gia'><img src='/images/common/134007_navi04.png' alt='' class='img-responsive'><img src='/images/common/134007_navi04_hover.png' alt='' class='img-responsive img-top'><span>Bảng giá dịch vụ</span></a></li><li><a href='/#'><img src='/images/common/134035_navi05.png' alt='' class='img-responsive'><img src='/images/common/134035_navi05_hover.png' alt='' class='img-responsive img-top'><span>Giải pháp công nghệ</span></a></li><li><a href='http://viendidong.com/bang-gia-PK'><img src='/images/common/134103_navi06.png' alt='' class='img-responsive'><img src='/images/common/134103_navi06_hover.png' alt='' class='img-responsive img-top'><span>Linh kiện phụ kiện</span></a></li>
+                              
+                            </ul>
+                        </div>
+
+                    
+                    
+
+                    <!-- / #Bnr -->
+                </section>
+                <!-- / #Content-inner -->
+            </section>
+            <!-- / #Content -->
+            
+                <div class="top-footer">
+                    <div class="container">
+                        <div class="row">
+                            <div class="col-sm-6">
+                                <img src='/images/index/logo-f.png'>
+                            </div>
+                            <div class="col-sm-6 text-right">
+                                <img src='/images/index/phone.png'>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <footer>
+                   <div class="container">
+            <div class="row fixHeight">
+                <div class="col-md-2 col-sm-6 mb-sp oS-slideUp fixHeightChild">
+                                <h2 class="f-ttl-h2">Về Viện Di Động</h2>
+                                <ul class="list-info">
+                                    <li><a class="oK-moveRight" href='/gioi-thieu'>Giới thiệu</a></li>
+                                    <li><a class="oK-moveRight" href='/dao-tao'>Đào tạo</a> </li>
+                                    <li><a class="oK-moveRight" href='/dich-vu'>Dịch vụ</a> </li>
+                                    <li><a class="oK-moveRight" href='/hop-tac'>Hợp tác</a> </li>
+                                    <li><a class="oK-moveRight" href='/tuyen-dung'>Tuyển dụng</a> </li>
+                                    <li><a class="oK-moveRight" href='/lien-he'>Liên hệ</a> </li>
+                                    
+                                </ul>
+                            </div>
+                            <!-- / .col -->
+                            <div class="col-md-2 col-sm-6 mb-sp oS-slideUp fixHeightChild">
+                                <h2 class="f-ttl-h2">Dịch vụ & hỗ trợ</h2>
+                                <ul class="list-info">
+                                     <li><a href='/thong-tin/9/giai-dap-ho-tro' class='oK-moveRight'>Giải Đáp & Hỗ Trợ</a></li><li><a href='/thong-tin/1/gioi-thieu' class='oK-moveRight'>Giới thiệu</a></li><li><a href='/thong-tin/2/bao-hanh-sua-chua' class='oK-moveRight'>Bảo hành sửa chữa</a></li><li><a href='/thong-tin/3/hop-tac-dich-vu' class='oK-moveRight'>Hợp tác dịch vụ</a></li><li><a href='/thong-tin/11/ho-tro-tu-xa' class='oK-moveRight'>Hỗ Trợ Từ Xa</a></li><li><a href='/thong-tin/7/tuyen-dung' class='oK-moveRight'>Tuyển Dụng</a></li>
+                                    
+                                </ul>
+
+                            </div>
+                            <!-- / .col -->
+                            <div class="col-md-2 col-sm-6 mt-sp oS-slideUp dly-250 fixHeightChild">
+                                <h2 class="f-ttl-h2">Số lượng truy cập</h2>
+                                <ul class="list-info">
+                                    <li>Đang online: <span class="text-blue">7</span> </li>
+                                    <li>Trong ngày: <span class="text-blue">479</span></li>
+                                    <li>Trong tuần: <span class="text-blue">5176</span></li>
+                                    <li>Trong tháng: <span class="text-blue">61862</span></li>
+                                    <li>Tất Cả: <span class="text-blue">388,580</span></li>
+                                </ul>
+                            </div>
+                            <!-- / .col -->
+                            <div class="col-md-3 col-sm-6 mt-sp oS-slideUp dly-500 fixHeightChild">
+                                <h2 class="f-ttl-h2">Kết nối viện di động</h2>
+                                <div style="margin-top:10px" class="fb-page" data-href="https://www.facebook.com/viendidong/" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true">
+                                    <blockquote cite="https://www.facebook.com/viendidong/" class="fb-xfbml-parse-ignore">
+                                        <a href="https://www.facebook.com/viendidong/">Viện Di Động - Viendidong.com</a>
+                                    </blockquote>
+                                </div>
+                            </div>
+                            <!-- / .col -->
+                            <div class="col-md-3 col-sm-6 mt-sp oS-slideUp dly-600 fixHeightChild">
+                                <h2 class="f-ttl-h2" style="margin-bottom:10px">Tổng đài chăm sóc khách hàng</h2>
+                                <p>
+                                    Tư vấn kỹ thuật và tra cứu tiến độ sửa chữa: <br />
+                                      <b class='text-red'>19002057 - (028)71.062.062</b>
+                   
+                                </p>
+                                <p>
+                                    Phản hồi chất lượng dịch vụ:<br />
+                                     <b class='text-red'>	099 78 79 119</b>
+                                    
+                                </p>
+                                <p>
+                                     <li>  <span ></span> <span style="font-size: 13px; color: #7f7f7f;">Giờ l&agrave;m việc:</span><br />
+<strong class="text-red">8:30 - 19:00 ( T2 - T7 )</strong>
+<br />
+<strong class="text-red">8:30 - 15:00 CN</strong><br/></li>
+                                  
+                                </p>
+                            </div>
+                        </div>
+                       </div>
+                        <div class="bg-gray line-footer">
+            <div class="container">
+                <span>*** Top 5 tìm kiếm nhiều nhất</span>
+                 <span><a href='/dich-vu-chi-tiet/115/mo-khoa-icloud-iphone-5s-16gb'>.Mở Khóa iCloud iPhone 5S 16GB</a></span><span><a href='/dich-vu-chi-tiet/284/thay-pin-samsung-s6-active'>.Thay Pin SAMSUNG S6 Active</a></span><span><a href='/dich-vu-chi-tiet/119/thay-kinh-samsung-a9'>.Thay Kính SAMSUNG A9</a></span><span><a href='/dich-vu-chi-tiet/16/ep-kinh-iphone-6s'>.Ép Kính iPhone 6S</a></span><span><a href='/dich-vu-chi-tiet/87/thay-cam-ung-sony-z3'>.Thay Cảm Ứng SONY Z3</a></span>
+            </div>
+        </div>
+        <div class="container">
+            <div class="row">
+                <div class="col-sm-6">
+                    <h2 class="f-ttl-h2">HỆ THỐNG DỊCH VỤ BẢO HÀNH - ĐÀO TẠO & SỬA CHỮA THIẾT BỊ ĐIỆN THOẠI DI ĐỘNG</h2>
+                      <p> Nhanh Ch&oacute;ng - Uy T&iacute;n - Chuy&ecirc;n Nghiệp.<br /></p>
+                    <li>  <p> Số 62A Trần Quang Khải,P. T&acirc;n Định, Q.1, TP.HCM<br />
+<div id="radePasteHelper" style="position: absolute; left: -10000px; border: 0px solid red; top: 0px; width: 1px; height: 1px; overflow: hidden;">
+<table class="rgMasterTable" id="ctl00_ContentBody_RadGrid1_ctl00" style="border-collapse: separate; font-stretch: normal; font-size: 12px; font-family: 'Segoe UI', Arial, Helvetica, sans-serif; line-height: 16px; color: #000000; width: 1267.2px; table-layout: auto; empty-cells: show;">
+    <tbody>
+        <tr class="rgRow" id="ctl00_ContentBody_RadGrid1_ctl00__6" style="cursor: default;">
+            <td style="padding: 4px 7px 3px; border-style: solid; border-top-width: 0px; border-right-width: 0px; border-bottom-width: 1px; border-color: #ffffff #e5e5e5;">
+            <div style="clear: both;"><a href="https://www.google.com/maps/place/241+Ho%C3%A0ng+V%C4%83n+Th%E1%BB%A5,+ph%C6%B0%E1%BB%9Dng+8,+Ph%C3%BA+Nhu%E1%BA%ADn,+H%E1%BB%93+Ch%C3%AD+Minh,+Vi%E1%BB%87t+Nam/@10.7998523,106.6669333,17z/data=!3m1!4b1!4m5!3m4!1s0x3175292f3cfcf1bd:0xebc70af5948493af!8m2!3d10.799847!4d106.669122" target="_blank" style="color: #000000;">Số 241 Ho&agrave;ng Văn Thụ, P. 8, Q. Ph&uacute; Nhuận, TP. HCM</a></div>
+            </td>
+        </tr>
+    </tbody>
+</table>
+</div></p>  <p> <a href="https://www.google.com/maps/place/C%C3%B4ng+Ty+TNHH+C%C3%B4ng+Ngh%E1%BB%87+Vi%E1%BB%87n+Di+%C4%90%E1%BB%99ng/@10.7692329,106.6716757,17z/data=!4m5!3m4!1s0x31752edfd0cfba8f:0xb59ee8d6142b3be7!8m2!3d10.769231!4d106.673861" target="_blank">Số 608, L&ecirc; Hồng Phong, P. 10, Q.10, TP.HCM</a></p>  <p> <a href="https://www.google.com/maps/place/241+Ho%C3%A0ng+V%C4%83n+Th%E1%BB%A5,+ph%C6%B0%E1%BB%9Dng+8,+Ph%C3%BA+Nhu%E1%BA%ADn,+H%E1%BB%93+Ch%C3%AD+Minh,+Vi%E1%BB%87t+Nam/@10.7998523,106.6669333,17z/data=!3m1!4b1!4m5!3m4!1s0x3175292f3cfcf1bd:0xebc70af5948493af!8m2!3d10.799847!4d106.669122" target="_blank">Số 241 Ho&agrave;ng Văn Thụ, P. 8, Q. Ph&uacute; Nhuận, TP. HCM</a></p>  <p> <a href="https://www.google.com/maps/place/177+Nguy%E1%BB%85n+V%C4%83n+Linh,+Thanh+Kh%C3%AA,+%C4%90%C3%A0+N%E1%BA%B5ng,+Vi%E1%BB%87t+Nam/@16.0594729,108.2063582,17z/data=!3m1!4b1!4m5!3m4!1s0x314219b402a3c045:0xedcc3a6352e494bf!8m2!3d16.0594729!4d108.2085469" target="_blank">Số 177 Nguyễn Văn Linh, Thanh Kh&ecirc;, Đ&agrave; Nẵng</a></p></li>
+                   
+                    <p>Tel: 19002057 - (08)71 062 062</p>
+                    <p>Email: cskh@viendidong</p>
+                </div>
+                <div class="col-sm-4">
+                    <h2 class="f-ttl-h2">CHẤP NHẬN THANH TOÁN</h2>
+                    <img src='/images/index/f1.png' alt="" />
+                    <img src='/images/index/f2.png' alt="" />
+                    <img src='/images/index/f3.png' alt="" />
+                    <img src='/images/index/f4.png' alt="" />
+                    <img src='/images/index/f5.png' alt="" />
+                </div>
+                <div class="col-sm-2">
+                    <h2 class="f-ttl-h2">CHẤP NHẬN SGD TMDT</h2>
+                  <a target="_blank" href="http://online.gov.vn/CustomWebsiteDisplay.aspx?DocId=16882">  <img src='/images/index/dadangky.png'  alt="" /></a>
+                </div>
+            </div>
+        </div>
+                    
+                    <!-- / .container -->
+                </footer>
+            
+            
+                <!-- / #Footer -->
+              <p id="Copyright">
+    	Viện Di Động HỆ THỐNG DỊCH VỤ BẢO HÀNH -  ĐÀO TẠO VÀ SỬA CHỮA THIẾT BỊ DI DỘNG
+       608 Lê Hồng Phong, Phường 10, Quận 10, TP HCM
+      Chủ sở hữu: Nguyễn Thị Kinh Xuân
+    </p>
+
+            
+            
+
+            <!-- / #Pagetop -->
+            <!-- / #Container -->
+            <p class="spMenu"><a href="#" class="panelBtn"><span class="panelBtnIcon"></span></a></p>
+
+            <!--javascript-->
+
+            <script>window.jQuery || document.write('<script src="/Scripts/vendor/jquery-1.11.0.min.js"><\/script>')</script>
+            <script type="text/javascript" src='/Scripts/bootstrap.min.js'></script>
+            <script src='/Scripts/opacity-rollover2.1.js'></script>
+            <script src='/Scripts/jquery.bxslider.js'></script>
+            <script src='/Scripts/accordione.js'></script>
+            <script type="text/javascript" src='/Scripts/bootstrap.min.js'></script>
+            <script src='/Scripts/slick.js'></script>
+            <script type="text/javascript">
+                $(document).ready(function () {
+
+                    $('.slider-for').slick({
+                        slidesToShow: 1,
+                        slidesToScroll: 1,
+                        arrows: false,
+                        fade: false,
+                        autoplay: true,
+                        asNavFor: '.slider-nav'
+                    });
+                    $('.slider-nav').slick({
+                        slidesToShow: 5,
+                        slidesToScroll: 1,
+                        asNavFor: '.slider-for',
+                        dots: false,
+                        //				centerMode: true,
+                        focusOnSelect: true,
+                        responsive: [
+                        {
+                            breakpoint: 540,
+                            settings: {
+                                arrows: false,
+                                centerMode: true,
+                                centerPadding: '40px',
+                                slidesToShow: 3
+                            }
+                        }
+                        ]
+                    });
+                    $('.slider-right01').slick({
+                        infinite: true,
+                        speed: 700,
+                        fade: true,
+                        autoplay: true,
+                        slidesToShow: 1,
+                        adaptiveHeight: true
+                    });
+                    $('.slider-right02').slick({
+                        infinite: true,
+                        speed: 700,
+                        fade: true,
+                        autoplay: true,
+                        slidesToShow: 1,
+                        adaptiveHeight: true
+                    });
+
+                    // Add background opacity for product-item
+                    $(".block-Service").hover(function () {
+                        $(this).find('.over').stop().fadeTo("fast", 1);
+                    },
+                      function () {
+                          $(this).find('.over').stop().fadeTo("fast", 0);
+                      });
+
+
+                });
+            </script>
+            <script>
+                $(document).ready(function () {
+
+                });
+            </script>
+
+            <script type="text/javascript">
+                function ResolveUrl(url) {
+                    if (url.indexOf("~/") == 0) {
+                        url = baseUrl + url.substring(2);
+                    }
+                    return url;
+                }
+                var baseUrl = "/tra-cuu-dich-vu/";
+                function SearchData() {
+                    var values = document.getElementById('ContentHeaderTop_txt_Search');
+                if (values.value.length == 0)
+                    return;
+                var link = baseUrl + values.value.replace("/", "");
+
+                window.location.href = link;
+            }
+            function runScript2(e) {
+
+                if (event.which == 13 || event.keyCode == 13) {
+
+                    SearchData();
+                    window.event.returnValue = false;
+                }
+            }
+            function buttonSend() {
+                var hoten = document.getElementById("Contact_HoTen").value;
+                var dienthoai = document.getElementById("Contact_DienThoai").value;
+                var email = document.getElementById("Contact_Email").value;
+                var tieude = document.getElementById("Contact_TieuDe").value;
+                var noidung = document.getElementById("Contact_NoiDung").value;
+                SendMail(hoten, dienthoai, email, tieude, noidung);
+
+            }
+            function SendMail(hoten, dienthoai, email, tieude, noidung) {
+                var URLSite = "VienDiDongSolution.asmx/SendMail";
+                $(".modal").show();
+                $.ajax({
+                    url: URLSite,
+
+                    type: 'POST',
+                    data: { _Hoten: hoten, _DienThoai: dienthoai, _Email: email, _TieuDe: tieude, _NoiDung: noidung },
+                    dataType: "text",
+
+                    success: function (resp) {
+                        var repsValues = resp;
+                        if (resp == null)
+                            repsValues = resp.d;
+                        var kqCT = repsValues.toString().replace("<?xml version=\"1.0\" encoding=\"utf-8\"?>", "").replace("<string xmlns=\"http://tempuri.org/\">", "").replace("</string>", "").replace("<string xmlns=\"http://tempuri.org/\" />", "");  //3.5  
+                        alert(kqCT);
+                        document.getElementById("Contact_HoTen").value = "";
+                        document.getElementById("Contact_DienThoai").value = "";
+                        document.getElementById("Contact_Email").value = "";
+                        document.getElementById("Contact_TieuDe").value = "";
+                        document.getElementById("Contact_NoiDung").value = "";
+                        $(".modal").hide();
+                        document.getElementById("box_mail1").style = "block";
+                    }
+               ,
+                    error: function (e) {
+                        alert('Error: ' + e);
+                        $(".modal").hide();
+                    }
+                });
+
+            }
+            </script>
+            <script src='/Scripts/jquery.onscreen.custom.min.js'></script>
+            <script src='/Scripts/jquery.sticky-kit.min.js'></script>
+
+            <script src='/Scripts/common.js'></script>
+            <script src='/Scripts/fixHeight.js'></script>
+            <!--Start of Tawk.to Script-->
+            <script type="text/javascript">
+                var Tawk_API = Tawk_API || {}, Tawk_LoadStart = new Date();
+                (function () {
+                    var s1 = document.createElement("script"), s0 = document.getElementsByTagName("script")[0];
+                    s1.async = true;
+                    s1.src = 'https://embed.tawk.to/57592dad030c95fc582cef02/default';
+                    s1.charset = 'UTF-8';
+                    s1.setAttribute('crossorigin', '*');
+                    s0.parentNode.insertBefore(s1, s0);
+                })();
+            </script>
+            <!-- Google Code dành cho Thẻ tiếp thị lại -->
+<!--------------------------------------------------
+Không thể liên kết thẻ tiếp thị lại với thông tin nhận dạng cá nhân hay đặt thẻ tiếp thị lại trên các trang có liên quan đến danh mục nhạy cảm. Xem thêm thông tin và hướng dẫn về cách thiết lập thẻ trên: http://google.com/ads/remarketingsetup
+--------------------------------------------------->
+<script type="text/javascript">
+    var google_tag_params = {
+        ecomm_prodid: 'REPLACE_WITH_VALUE',
+        ecomm_pagetype: 'REPLACE_WITH_VALUE',
+        ecomm_totalvalue: 'REPLACE_WITH_VALUE',
+        dynx_itemid: 'REPLACE_WITH_VALUE',
+        dynx_itemid2: 'REPLACE_WITH_VALUE',
+        dynx_pagetype: 'REPLACE_WITH_VALUE',
+        dynx_totalvalue: 'REPLACE_WITH_VALUE',
+    };
+</script>
+<script type="text/javascript">
+    /* <![CDATA[ */
+    var google_conversion_id = 1006686144;
+    var google_custom_params = window.google_tag_params;
+    var google_remarketing_only = true;
+    /* ]]> */
+</script>
+<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+</script>
+<noscript>
+<div style="display:inline;">
+<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/1006686144/?guid=ON&amp;script=0"/>
+</div>
+</noscript>
+
+            <!--End of Tawk.to Script-->
+            
+    </form>
+</body>
+</html>

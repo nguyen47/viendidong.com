@@ -1,0 +1,1222 @@
+
+
+<!DOCTYPE html>
+<!--[if IE 6]> <html class="no-js lt-ie9 lt-ie8 lt-ie7 eq-ie6" lang="ja"> <![endif]-->
+<!--[if IE 7]> <html class="no-js lt-ie9 lt-ie8 eq-ie7" lang="ja"> <![endif]-->
+<!--[if IE 8]> <html class="no-js lt-ie9 eq-ie8" lang="ja"> <![endif]-->
+<!--[if gt IE 8]><!-->
+<html class="no-js" lang="vi" xmlns="http://www.w3.org/1999/xhtml">
+<!--<![endif]-->
+<head><meta http-equiv="X-UA-Compatible" content="IE=edge" /><meta name="viewport" content="width=device-width,initial-scale=1.0,minimum-scale=1.0,maximum-scale=1.0,user-scalable=no" /><meta charset="utf-8" /><title>
+	Viện Di Động
+</title>
+    <!--seo-->
+
+    <meta name="robots" content="index,follow" />
+    <!--OGP-->
+    <meta property="og:title" content="Viện Di Động" /><meta property="og:type" content="website" /><meta property="og:description" content="Viện Di Động" /><meta property="og:url" content="http://www.viendidong.com/" /><meta property="og:image" content="http://www.viendidong.com/images/ogp.jpg" /><meta property="og:site_name" content="Viện Di Động" /><meta property="og:email" content="cskh@viendidong.com" /><meta property="og:phone_number" content="00-0000-0000" />
+    <!--setting-->
+    <link rel="shortcut icon" href="favicon.ico" /><meta name="format-detection" content="telephone=no" />
+    <!--favicon-->
+    <link rel="apple-touch-icon" href="ico_home.jpg" />
+    <!--css-->
+
+    <link rel="stylesheet" href="Content/bootstrap.css" /><link rel="stylesheet" href="Content/normalize.css" /><link rel="stylesheet" href="Content/module.css" /><link rel="stylesheet" href="Content/font-awesome.css" /><link rel="stylesheet" href="Content/common.css" /><link rel="stylesheet" href="Content/index.css" /><link rel="stylesheet" href="fonts/stylesheet.css" /><link rel="stylesheet" type="text/css" href="Content/slick.css" /><link rel="stylesheet" type="text/css" href="Content/slick-theme.css" /><link rel="stylesheet" href="Content/animation.min.css" media="all" />
+
+    <style type="text/css">
+        .Opacity {
+            opacity: .5;
+        }
+
+            .Opacity:hover {
+                opacity: 1;
+            }
+    </style>
+
+
+
+    <!--[if lt IE 9]><script src="Scripts/vendor/html5shiv.js"></script><![endif]-->
+    <!--[if IE]><script src="Scripts/PIE.js"></script><![endif]-->
+    
+    <link rel="stylesheet" href="Content/lookup.css" />
+    <link rel="stylesheet" href="Content/remodal.css" />
+    <link rel="stylesheet" href="Content/remodal-default-theme.css" />
+    <link rel="stylesheet" href="Content/training.css" />
+    <style type="text/css">
+        .side-ttl {
+            font-size: 15px !important;
+        }
+        @media only screen and (min-width: 641px) {
+            .remodal {
+                max-width: 1150px !important;
+            }
+        }
+        .Backcolor {
+            background: #e8e5e5;
+            border-color: white;
+             border-top-style: solid;
+            border-right-style: solid;
+            border-bottom-style: none;
+            border-left-style: solid;
+            border-width: 1px;
+           text-align: left;
+        }
+        .TieuDe {
+            font-weight:bold;
+        }
+        .backND
+        {
+            border-top-style: solid;
+            border-right-style: none;
+            border-bottom-style: none;
+            border-left-style: solid;
+            border-width: 1px;
+            border-color: white;
+            text-align:left;
+        }
+        .article
+        {
+            background:beige;
+            padding:0px;
+           
+        }
+        .activeMenu {
+            background-color: #f5f17a !important;
+        }
+        .table td
+        {
+            border-style:solid;
+            border-width:1px;
+            padding:2px;
+            font-family:Arial;
+            font-size: 12px;
+        }
+        .table > tbody > tr > th
+        {
+            border-style:solid;
+            border-width:1px;
+            padding:2px;
+            font-family:Arial;
+            vertical-align: middle;
+            background: #ababab;
+            color: white;
+            font-weight: bold;
+            font-size: 12px;
+        }
+    </style>
+
+    <script>
+
+        (function (i, s, o, g, r, a, m) {
+            i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
+
+                (i[r].q = i[r].q || []).push(arguments)
+            }, i[r].l = 1 * new Date(); a = s.createElement(o),
+
+            m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
+
+        })(window, document, 'script', 'https://www.google-analytics.com/analytics.js', 'ga');
+
+
+
+        ga('create', 'UA-62560059-4', 'auto');
+
+        ga('send', 'pageview');
+
+
+
+    </script>
+</head>
+<body id="Top">
+    <form method="post" action="tra-cuu" id="form1">
+<div class="aspNetHidden">
+<input type="hidden" name="__EVENTTARGET" id="__EVENTTARGET" value="" />
+<input type="hidden" name="__EVENTARGUMENT" id="__EVENTARGUMENT" value="" />
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJOTIxMTIzNzQ2DxYCHhNWYWxpZGF0ZVJlcXVlc3RNb2RlAgEWAmYPZBYCAgMPZBYIZg9kFgYCAQ8WAh4EVGV4dAXqEsSQ4buLYSBjaOG7iSAxOiBT4buRIDYyQSBUcuG6p24gUXVhbmcgS2jhuqNpLFAuIFQmYWNpcmM7biDEkOG7i25oLCBRLjEsIFRQLkhDTTxiciAvPg0KPGRpdiBpZD0icmFkZVBhc3RlSGVscGVyIiBzdHlsZT0icG9zaXRpb246IGFic29sdXRlOyBsZWZ0OiAtMTAwMDBweDsgYm9yZGVyOiAwcHggc29saWQgcmVkOyB0b3A6IDBweDsgd2lkdGg6IDFweDsgaGVpZ2h0OiAxcHg7IG92ZXJmbG93OiBoaWRkZW47Ij4NCjx0YWJsZSBjbGFzcz0icmdNYXN0ZXJUYWJsZSIgaWQ9ImN0bDAwX0NvbnRlbnRCb2R5X1JhZEdyaWQxX2N0bDAwIiBzdHlsZT0iYm9yZGVyLWNvbGxhcHNlOiBzZXBhcmF0ZTsgZm9udC1zdHJldGNoOiBub3JtYWw7IGZvbnQtc2l6ZTogMTJweDsgZm9udC1mYW1pbHk6ICdTZWdvZSBVSScsIEFyaWFsLCBIZWx2ZXRpY2EsIHNhbnMtc2VyaWY7IGxpbmUtaGVpZ2h0OiAxNnB4OyBjb2xvcjogIzAwMDAwMDsgd2lkdGg6IDEyNjcuMnB4OyB0YWJsZS1sYXlvdXQ6IGF1dG87IGVtcHR5LWNlbGxzOiBzaG93OyI+DQogICAgPHRib2R5Pg0KICAgICAgICA8dHIgY2xhc3M9InJnUm93IiBpZD0iY3RsMDBfQ29udGVudEJvZHlfUmFkR3JpZDFfY3RsMDBfXzYiIHN0eWxlPSJjdXJzb3I6IGRlZmF1bHQ7Ij4NCiAgICAgICAgICAgIDx0ZCBzdHlsZT0icGFkZGluZzogNHB4IDdweCAzcHg7IGJvcmRlci1zdHlsZTogc29saWQ7IGJvcmRlci10b3Atd2lkdGg6IDBweDsgYm9yZGVyLXJpZ2h0LXdpZHRoOiAwcHg7IGJvcmRlci1ib3R0b20td2lkdGg6IDFweDsgYm9yZGVyLWNvbG9yOiAjZmZmZmZmICNlNWU1ZTU7Ij4NCiAgICAgICAgICAgIDxkaXYgc3R5bGU9ImNsZWFyOiBib3RoOyI+PGEgaHJlZj0iaHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS9tYXBzL3BsYWNlLzI0MStIbyVDMyVBMG5nK1YlQzQlODNuK1RoJUUxJUJCJUE1LCtwaCVDNiVCMCVFMSVCQiU5RG5nKzgsK1BoJUMzJUJBK05odSVFMSVCQSVBRG4sK0glRTElQkIlOTMrQ2glQzMlQUQrTWluaCwrVmklRTElQkIlODd0K05hbS9AMTAuNzk5ODUyMywxMDYuNjY2OTMzMywxN3ovZGF0YT0hM20xITRiMSE0bTUhM200ITFzMHgzMTc1MjkyZjNjZmNmMWJkOjB4ZWJjNzBhZjU5NDg0OTNhZiE4bTIhM2QxMC43OTk4NDchNGQxMDYuNjY5MTIyIiB0YXJnZXQ9Il9ibGFuayIgc3R5bGU9ImNvbG9yOiAjMDAwMDAwOyI+U+G7kSAyNDEgSG8mYWdyYXZlO25nIFbEg24gVGjhu6UsIFAuIDgsIFEuIFBoJnVhY3V0ZTsgTmh14bqtbiwgVFAuIEhDTTwvYT48L2Rpdj4NCiAgICAgICAgICAgIDwvdGQ+DQogICAgICAgIDwvdHI+DQogICAgPC90Ym9keT4NCjwvdGFibGU+DQo8L2Rpdj48YnIvPsSQ4buLYSBjaOG7iSAyOiA8YSBocmVmPSJodHRwczovL3d3dy5nb29nbGUuY29tL21hcHMvcGxhY2UvQyVDMyVCNG5nK1R5K1ROSEgrQyVDMyVCNG5nK05naCVFMSVCQiU4NytWaSVFMSVCQiU4N24rRGkrJUM0JTkwJUUxJUJCJTk5bmcvQDEwLjc2OTIzMjksMTA2LjY3MTY3NTcsMTd6L2RhdGE9ITRtNSEzbTQhMXMweDMxNzUyZWRmZDBjZmJhOGY6MHhiNTllZThkNjE0MmIzYmU3IThtMiEzZDEwLjc2OTIzMSE0ZDEwNi42NzM4NjEiIHRhcmdldD0iX2JsYW5rIj5T4buRIDYwOCwgTCZlY2lyYzsgSOG7k25nIFBob25nLCBQLiAxMCwgUS4xMCwgVFAuSENNPC9hPjxici8+xJDhu4thIGNo4buJIDM6IDxhIGhyZWY9Imh0dHBzOi8vd3d3Lmdvb2dsZS5jb20vbWFwcy9wbGFjZS8yNDErSG8lQzMlQTBuZytWJUM0JTgzbitUaCVFMSVCQiVBNSwrcGglQzYlQjAlRTElQkIlOURuZys4LCtQaCVDMyVCQStOaHUlRTElQkElQURuLCtIJUUxJUJCJTkzK0NoJUMzJUFEK01pbmgsK1ZpJUUxJUJCJTg3dCtOYW0vQDEwLjc5OTg1MjMsMTA2LjY2NjkzMzMsMTd6L2RhdGE9ITNtMSE0YjEhNG01ITNtNCExczB4MzE3NTI5MmYzY2ZjZjFiZDoweGViYzcwYWY1OTQ4NDkzYWYhOG0yITNkMTAuNzk5ODQ3ITRkMTA2LjY2OTEyMiIgdGFyZ2V0PSJfYmxhbmsiPlPhu5EgMjQxIEhvJmFncmF2ZTtuZyBWxINuIFRo4bulLCBQLiA4LCBRLiBQaCZ1YWN1dGU7IE5odeG6rW4sIFRQLiBIQ008L2E+PGJyLz7EkOG7i2EgY2jhu4kgNDogPGEgaHJlZj0iaHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS9tYXBzL3BsYWNlLzE3NytOZ3V5JUUxJUJCJTg1bitWJUM0JTgzbitMaW5oLCtUaGFuaCtLaCVDMyVBQSwrJUM0JTkwJUMzJUEwK04lRTElQkElQjVuZywrVmklRTElQkIlODd0K05hbS9AMTYuMDU5NDcyOSwxMDguMjA2MzU4MiwxN3ovZGF0YT0hM20xITRiMSE0bTUhM200ITFzMHgzMTQyMTliNDAyYTNjMDQ1OjB4ZWRjYzNhNjM1MmU0OTRiZiE4bTIhM2QxNi4wNTk0NzI5ITRkMTA4LjIwODU0NjkiIHRhcmdldD0iX2JsYW5rIj5T4buRIDE3NyBOZ3V54buFbiBWxINuIExpbmgsIFRoYW5oIEtoJmVjaXJjOywgxJAmYWdyYXZlOyBO4bq1bmc8L2E+PGJyLz5kAgIPFgIfAQVhVMawIHbhuqVuIGvhu7kgdGh14bqtdCB2w6AgdHJhIGPhu6l1IHRp4bq/biDEkeG7mSBz4butYSBjaOG7rWEgOiAgMTkwMDIwNTcgLSAoMDI4KTcxLjA2Mi4wNjI8YnIvPmQCAw8WAh8BBT4gUGjhuqNuIMOBbmggQ2jhuqV0IEzGsOG7o25nIEThu4tjaCBW4bulIDogCTA5OSA3OCA3OSAxMTk8YnIvPmQCAg9kFgJmDxYCHwEFOjxpbWcgc3JjPScvaW1hZ2VzL2luZGV4LzA5MTYzNl81LnBuZycgYWx0PScnIHdpZHRoPScxMDAlJz5kAgMPZBYCAgEPFgIfAQXRCzxsaT48YSBocmVmPSdodHRwOi8vdmllbmRpZG9uZy5jb20vZGFvLXRhbyc+PGltZyBzcmM9Jy9pbWFnZXMvY29tbW9uLzEzMzgxMl9uYXZpMDEucG5nJyBhbHQ9JycgY2xhc3M9J2ltZy1yZXNwb25zaXZlJz48aW1nIHNyYz0nL2ltYWdlcy9jb21tb24vMTMzODEyX25hdmkwMV9ob3Zlci5wbmcnIGFsdD0nJyBjbGFzcz0naW1nLXJlc3BvbnNpdmUgaW1nLXRvcCc+PHNwYW4+xJDDoG8gdOG6oW8gZOG6oXkgbmdo4buBPC9zcGFuPjwvYT48L2xpPjxsaT48YSBocmVmPSdodHRwOi8vdmllbmRpZG9uZy5jb20vZGljaC12dSc+PGltZyBzcmM9Jy9pbWFnZXMvY29tbW9uLzEzMzg0Ml9uYXZpMDIucG5nJyBhbHQ9JycgY2xhc3M9J2ltZy1yZXNwb25zaXZlJz48aW1nIHNyYz0nL2ltYWdlcy9jb21tb24vMTMzODQyX25hdmkwMl9ob3Zlci5wbmcnIGFsdD0nJyBjbGFzcz0naW1nLXJlc3BvbnNpdmUgaW1nLXRvcCc+PHNwYW4+QuG6o28gaMOgbmggc+G7rWEgY2jhu69hPC9zcGFuPjwvYT48L2xpPjxsaT48YSBocmVmPSdodHRwOi8vdmllbmRpZG9uZy5jb20vdHJhLWN1dSc+PGltZyBzcmM9Jy9pbWFnZXMvY29tbW9uLzEzMzkyOV9uYXZpMDMucG5nJyBhbHQ9JycgY2xhc3M9J2ltZy1yZXNwb25zaXZlJz48aW1nIHNyYz0nL2ltYWdlcy9jb21tb24vMTMzOTI5X25hdmkwM19ob3Zlci5wbmcnIGFsdD0nJyBjbGFzcz0naW1nLXJlc3BvbnNpdmUgaW1nLXRvcCc+PHNwYW4+VHJhIGPhu6l1IHRow7RuZyB0aW48L3NwYW4+PC9hPjwvbGk+PGxpPjxhIGhyZWY9J2h0dHA6Ly92aWVuZGlkb25nLmNvbS90cmEtY3V1LWdpYSc+PGltZyBzcmM9Jy9pbWFnZXMvY29tbW9uLzEzNDAwN19uYXZpMDQucG5nJyBhbHQ9JycgY2xhc3M9J2ltZy1yZXNwb25zaXZlJz48aW1nIHNyYz0nL2ltYWdlcy9jb21tb24vMTM0MDA3X25hdmkwNF9ob3Zlci5wbmcnIGFsdD0nJyBjbGFzcz0naW1nLXJlc3BvbnNpdmUgaW1nLXRvcCc+PHNwYW4+QuG6o25nIGdpw6EgZOG7i2NoIHbhu6U8L3NwYW4+PC9hPjwvbGk+PGxpPjxhIGhyZWY9Jy8jJz48aW1nIHNyYz0nL2ltYWdlcy9jb21tb24vMTM0MDM1X25hdmkwNS5wbmcnIGFsdD0nJyBjbGFzcz0naW1nLXJlc3BvbnNpdmUnPjxpbWcgc3JjPScvaW1hZ2VzL2NvbW1vbi8xMzQwMzVfbmF2aTA1X2hvdmVyLnBuZycgYWx0PScnIGNsYXNzPSdpbWctcmVzcG9uc2l2ZSBpbWctdG9wJz48c3Bhbj5HaeG6o2kgcGjDoXAgY8O0bmcgbmdo4buHPC9zcGFuPjwvYT48L2xpPjxsaT48YSBocmVmPSdodHRwOi8vdmllbmRpZG9uZy5jb20vYmFuZy1naWEtUEsnPjxpbWcgc3JjPScvaW1hZ2VzL2NvbW1vbi8xMzQxMDNfbmF2aTA2LnBuZycgYWx0PScnIGNsYXNzPSdpbWctcmVzcG9uc2l2ZSc+PGltZyBzcmM9Jy9pbWFnZXMvY29tbW9uLzEzNDEwM19uYXZpMDZfaG92ZXIucG5nJyBhbHQ9JycgY2xhc3M9J2ltZy1yZXNwb25zaXZlIGltZy10b3AnPjxzcGFuPkxpbmgga2nhu4duIHBo4bulIGtp4buHbjwvc3Bhbj48L2E+PC9saT5kAgUPZBYYZg8WAh8BBaEEPGxpPjxhIGhyZWY9Jy90aG9uZy10aW4vOS9naWFpLWRhcC1oby10cm8nIGNsYXNzPSdvSy1tb3ZlUmlnaHQnPkdp4bqjaSDEkMOhcCAmIEjhu5cgVHLhu6M8L2E+PC9saT48bGk+PGEgaHJlZj0nL3Rob25nLXRpbi8xL2dpb2ktdGhpZXUnIGNsYXNzPSdvSy1tb3ZlUmlnaHQnPkdp4bubaSB0aGnhu4d1PC9hPjwvbGk+PGxpPjxhIGhyZWY9Jy90aG9uZy10aW4vMi9iYW8taGFuaC1zdWEtY2h1YScgY2xhc3M9J29LLW1vdmVSaWdodCc+QuG6o28gaMOgbmggc+G7rWEgY2jhu69hPC9hPjwvbGk+PGxpPjxhIGhyZWY9Jy90aG9uZy10aW4vMy9ob3AtdGFjLWRpY2gtdnUnIGNsYXNzPSdvSy1tb3ZlUmlnaHQnPkjhu6NwIHTDoWMgZOG7i2NoIHbhu6U8L2E+PC9saT48bGk+PGEgaHJlZj0nL3Rob25nLXRpbi8xMS9oby10cm8tdHUteGEnIGNsYXNzPSdvSy1tb3ZlUmlnaHQnPkjhu5cgVHLhu6MgVOG7qyBYYTwvYT48L2xpPjxsaT48YSBocmVmPScvdGhvbmctdGluLzcvdHV5ZW4tZHVuZycgY2xhc3M9J29LLW1vdmVSaWdodCc+VHV54buDbiBE4bulbmc8L2E+PC9saT5kAgEPFgIfAQUDMzE1ZAICDxYCHwEFAzQ3NWQCAw8WAh8BBQQ1MTcyZAIEDxYCHwEFBTYxODU4ZAIFDxYCHwEFBzM4OCw1NzZkAgYPFgIfAQUzIDxiIGNsYXNzPSd0ZXh0LXJlZCc+MTkwMDIwNTcgLSAoMDI4KTcxLjA2Mi4wNjI8L2I+ZAIHDxYCHwEFJyA8YiBjbGFzcz0ndGV4dC1yZWQnPgkwOTkgNzggNzkgMTE5PC9iPmQCCA8WAh8BBeoBPGxpPiAgPHNwYW4gPjwvc3Bhbj4gPHNwYW4gc3R5bGU9ImZvbnQtc2l6ZTogMTNweDsgY29sb3I6ICM3ZjdmN2Y7Ij5HaeG7nSBsJmFncmF2ZTttIHZp4buHYzo8L3NwYW4+PGJyIC8+DQo8c3Ryb25nIGNsYXNzPSJ0ZXh0LXJlZCI+ODozMCAtIDE5OjAwICggVDIgLSBUNyApPC9zdHJvbmc+DQo8YnIgLz4NCjxzdHJvbmcgY2xhc3M9InRleHQtcmVkIj44OjMwIC0gMTU6MDAgQ048L3N0cm9uZz48YnIvPjwvbGk+ZAIJDxYCHwEF5wM8c3Bhbj48YSBocmVmPScvZGljaC12dS1jaGktdGlldC8xMTUvbW8ta2hvYS1pY2xvdWQtaXBob25lLTVzLTE2Z2InPi5N4bufIEtow7NhIGlDbG91ZCBpUGhvbmUgNVMgMTZHQjwvYT48L3NwYW4+PHNwYW4+PGEgaHJlZj0nL2RpY2gtdnUtY2hpLXRpZXQvMjg0L3RoYXktcGluLXNhbXN1bmctczYtYWN0aXZlJz4uVGhheSBQaW4gU0FNU1VORyBTNiBBY3RpdmU8L2E+PC9zcGFuPjxzcGFuPjxhIGhyZWY9Jy9kaWNoLXZ1LWNoaS10aWV0LzExOS90aGF5LWtpbmgtc2Ftc3VuZy1hOSc+LlRoYXkgS8OtbmggU0FNU1VORyBBOTwvYT48L3NwYW4+PHNwYW4+PGEgaHJlZj0nL2RpY2gtdnUtY2hpLXRpZXQvMTYvZXAta2luaC1pcGhvbmUtNnMnPi7DiXAgS8OtbmggaVBob25lIDZTPC9hPjwvc3Bhbj48c3Bhbj48YSBocmVmPScvZGljaC12dS1jaGktdGlldC84Ny90aGF5LWNhbS11bmctc29ueS16Myc+LlRoYXkgQ+G6o20g4buobmcgU09OWSBaMzwvYT48L3NwYW4+ZAIKDxYCHwEFSyAgPHA+IE5oYW5oIENoJm9hY3V0ZTtuZyAtIFV5IFQmaWFjdXRlO24gLSBDaHV5JmVjaXJjO24gTmdoaeG7h3AuPGJyIC8+PC9wPmQCCw8WAh8BBccSPGxpPiAgPHA+IFPhu5EgNjJBIFRy4bqnbiBRdWFuZyBLaOG6o2ksUC4gVCZhY2lyYztuIMSQ4buLbmgsIFEuMSwgVFAuSENNPGJyIC8+DQo8ZGl2IGlkPSJyYWRlUGFzdGVIZWxwZXIiIHN0eWxlPSJwb3NpdGlvbjogYWJzb2x1dGU7IGxlZnQ6IC0xMDAwMHB4OyBib3JkZXI6IDBweCBzb2xpZCByZWQ7IHRvcDogMHB4OyB3aWR0aDogMXB4OyBoZWlnaHQ6IDFweDsgb3ZlcmZsb3c6IGhpZGRlbjsiPg0KPHRhYmxlIGNsYXNzPSJyZ01hc3RlclRhYmxlIiBpZD0iY3RsMDBfQ29udGVudEJvZHlfUmFkR3JpZDFfY3RsMDAiIHN0eWxlPSJib3JkZXItY29sbGFwc2U6IHNlcGFyYXRlOyBmb250LXN0cmV0Y2g6IG5vcm1hbDsgZm9udC1zaXplOiAxMnB4OyBmb250LWZhbWlseTogJ1NlZ29lIFVJJywgQXJpYWwsIEhlbHZldGljYSwgc2Fucy1zZXJpZjsgbGluZS1oZWlnaHQ6IDE2cHg7IGNvbG9yOiAjMDAwMDAwOyB3aWR0aDogMTI2Ny4ycHg7IHRhYmxlLWxheW91dDogYXV0bzsgZW1wdHktY2VsbHM6IHNob3c7Ij4NCiAgICA8dGJvZHk+DQogICAgICAgIDx0ciBjbGFzcz0icmdSb3ciIGlkPSJjdGwwMF9Db250ZW50Qm9keV9SYWRHcmlkMV9jdGwwMF9fNiIgc3R5bGU9ImN1cnNvcjogZGVmYXVsdDsiPg0KICAgICAgICAgICAgPHRkIHN0eWxlPSJwYWRkaW5nOiA0cHggN3B4IDNweDsgYm9yZGVyLXN0eWxlOiBzb2xpZDsgYm9yZGVyLXRvcC13aWR0aDogMHB4OyBib3JkZXItcmlnaHQtd2lkdGg6IDBweDsgYm9yZGVyLWJvdHRvbS13aWR0aDogMXB4OyBib3JkZXItY29sb3I6ICNmZmZmZmYgI2U1ZTVlNTsiPg0KICAgICAgICAgICAgPGRpdiBzdHlsZT0iY2xlYXI6IGJvdGg7Ij48YSBocmVmPSJodHRwczovL3d3dy5nb29nbGUuY29tL21hcHMvcGxhY2UvMjQxK0hvJUMzJUEwbmcrViVDNCU4M24rVGglRTElQkIlQTUsK3BoJUM2JUIwJUUxJUJCJTlEbmcrOCwrUGglQzMlQkErTmh1JUUxJUJBJUFEbiwrSCVFMSVCQiU5MytDaCVDMyVBRCtNaW5oLCtWaSVFMSVCQiU4N3QrTmFtL0AxMC43OTk4NTIzLDEwNi42NjY5MzMzLDE3ei9kYXRhPSEzbTEhNGIxITRtNSEzbTQhMXMweDMxNzUyOTJmM2NmY2YxYmQ6MHhlYmM3MGFmNTk0ODQ5M2FmIThtMiEzZDEwLjc5OTg0NyE0ZDEwNi42NjkxMjIiIHRhcmdldD0iX2JsYW5rIiBzdHlsZT0iY29sb3I6ICMwMDAwMDA7Ij5T4buRIDI0MSBIbyZhZ3JhdmU7bmcgVsSDbiBUaOG7pSwgUC4gOCwgUS4gUGgmdWFjdXRlOyBOaHXhuq1uLCBUUC4gSENNPC9hPjwvZGl2Pg0KICAgICAgICAgICAgPC90ZD4NCiAgICAgICAgPC90cj4NCiAgICA8L3Rib2R5Pg0KPC90YWJsZT4NCjwvZGl2PjwvcD4gIDxwPiA8YSBocmVmPSJodHRwczovL3d3dy5nb29nbGUuY29tL21hcHMvcGxhY2UvQyVDMyVCNG5nK1R5K1ROSEgrQyVDMyVCNG5nK05naCVFMSVCQiU4NytWaSVFMSVCQiU4N24rRGkrJUM0JTkwJUUxJUJCJTk5bmcvQDEwLjc2OTIzMjksMTA2LjY3MTY3NTcsMTd6L2RhdGE9ITRtNSEzbTQhMXMweDMxNzUyZWRmZDBjZmJhOGY6MHhiNTllZThkNjE0MmIzYmU3IThtMiEzZDEwLjc2OTIzMSE0ZDEwNi42NzM4NjEiIHRhcmdldD0iX2JsYW5rIj5T4buRIDYwOCwgTCZlY2lyYzsgSOG7k25nIFBob25nLCBQLiAxMCwgUS4xMCwgVFAuSENNPC9hPjwvcD4gIDxwPiA8YSBocmVmPSJodHRwczovL3d3dy5nb29nbGUuY29tL21hcHMvcGxhY2UvMjQxK0hvJUMzJUEwbmcrViVDNCU4M24rVGglRTElQkIlQTUsK3BoJUM2JUIwJUUxJUJCJTlEbmcrOCwrUGglQzMlQkErTmh1JUUxJUJBJUFEbiwrSCVFMSVCQiU5MytDaCVDMyVBRCtNaW5oLCtWaSVFMSVCQiU4N3QrTmFtL0AxMC43OTk4NTIzLDEwNi42NjY5MzMzLDE3ei9kYXRhPSEzbTEhNGIxITRtNSEzbTQhMXMweDMxNzUyOTJmM2NmY2YxYmQ6MHhlYmM3MGFmNTk0ODQ5M2FmIThtMiEzZDEwLjc5OTg0NyE0ZDEwNi42NjkxMjIiIHRhcmdldD0iX2JsYW5rIj5T4buRIDI0MSBIbyZhZ3JhdmU7bmcgVsSDbiBUaOG7pSwgUC4gOCwgUS4gUGgmdWFjdXRlOyBOaHXhuq1uLCBUUC4gSENNPC9hPjwvcD4gIDxwPiA8YSBocmVmPSJodHRwczovL3d3dy5nb29nbGUuY29tL21hcHMvcGxhY2UvMTc3K05ndXklRTElQkIlODVuK1YlQzQlODNuK0xpbmgsK1RoYW5oK0toJUMzJUFBLCslQzQlOTAlQzMlQTArTiVFMSVCQSVCNW5nLCtWaSVFMSVCQiU4N3QrTmFtL0AxNi4wNTk0NzI5LDEwOC4yMDYzNTgyLDE3ei9kYXRhPSEzbTEhNGIxITRtNSEzbTQhMXMweDMxNDIxOWI0MDJhM2MwNDU6MHhlZGNjM2E2MzUyZTQ5NGJmIThtMiEzZDE2LjA1OTQ3MjkhNGQxMDguMjA4NTQ2OSIgdGFyZ2V0PSJfYmxhbmsiPlPhu5EgMTc3IE5ndXnhu4VuIFbEg24gTGluaCwgVGhhbmggS2gmZWNpcmM7LCDEkCZhZ3JhdmU7IE7hurVuZzwvYT48L3A+PC9saT5kZA==" />
+</div>
+
+<script type="text/javascript">
+//<![CDATA[
+var theForm = document.forms['form1'];
+if (!theForm) {
+    theForm = document.form1;
+}
+function __doPostBack(eventTarget, eventArgument) {
+    if (!theForm.onsubmit || (theForm.onsubmit() != false)) {
+        theForm.__EVENTTARGET.value = eventTarget;
+        theForm.__EVENTARGUMENT.value = eventArgument;
+        theForm.submit();
+    }
+}
+//]]>
+</script>
+
+
+        <script src='/Scripts/vendor/modernizr-2.6.2-respond-1.1.0.min.js'></script>
+        <div id="fb-root"></div>
+        <script>(function (d, s, id) {
+    var js, fjs = d.getElementsByTagName(s)[0];
+    if (d.getElementById(id)) return;
+    js = d.createElement(s); js.id = id;
+    js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.6";
+    fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+        <div id="Container">
+            
+                <script src='/Scripts/jquery.min.js'></script>
+                <header>
+                    <div class="header-inner">
+                        <div class="header-top">
+                            <div class="container cf">
+                                <div class="row">
+                                <div class="col-sm-2">
+
+                                    <p id="Logo"><a href='/'>
+                                        <img src='/images/common/logo_2.png' alt="" class="img-responsive oM-buzz" /></a></p>
+                                    <p class="tel  visible-xs"><a href="tel:19002057"><span><i class="fa fa-phone" aria-hidden="true"></i></span></a></p>
+                                </div>
+                                <div class="col-sm-10">
+                                    <div class="row">
+                                        <div class="col-md-8 col-sm-12">
+                                            <nav class="globalNavi">
+                                                <ul class="navi cf">
+                                                    <li><a href='/gioi-thieu'>Giới thiệu</a></li>
+                                                    <li><a href='/dao-tao'>Đào tạo </a>
+
+
+                                                    </li>
+                                                    <li class="dropdown"><a href='/dich-vu'>Dịch vụ</a>
+
+                                                    </li>
+                                                    <li class="dropdown"><a href='/hop-tac'>Hợp Tác</a>
+
+                                                    </li>
+                                                    <li><a href='/tuyen-dung'>Tuyển Dụng</a></li>
+
+                                                    <li><a href='/lien-he'>Liên hệ</a></li>
+
+                                                </ul>
+                                                <ul class="social visible-xs cf">
+                                                    <li class="blog"><a href="https://www.youtube.com/channel/UCWBgDBlv5Zxsa79y0M6bF6Q" target="_blank"><i class="fa fa-youtube" aria-hidden="true"></i></a></li>
+                                                    <li class="fb"><a href="https://www.facebook.com/viendidong" target="_blank"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
+                                                </ul>
+                                            </nav>
+                                            <!-- / #Navi -->
+                                        </div>
+                                        <div class="col-md-2 col-sm-12">
+                                            <div id="custom-search-input">
+                                                <div class="input-group col-md-12">
+                                                    <span class="input-group-btn">
+                                                        <button class="btn btn-info btn-lg" type="button" onclick="SearchData()">
+                                                            <i class="fa fa-search"></i>
+                                                        </button>
+                                                    </span>
+                                                    <input name="ctl00$ContentHeaderTop$txt_Search" type="text" id="ContentHeaderTop_txt_Search" class="form-control input-md Maxheight" onkeypress="runScript2(this)" placeholder="Bạn cần gì?" />
+
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="col-md-2 hot-phone text-center">
+                                            Hotlline 1900 2057
+                                        </div>
+                                        <!-- / .col -->
+
+                                        <!-- / .row -->
+
+                                    </div>
+                                </div>
+                                    </div>
+                            <!-- / .container -->
+                        </div>
+                        <!-- / .header-top -->
+                    </div>
+                        </div>
+                    <!-- / .header-inner -->
+                </header>
+                <div class="social-list">
+                    <ul class="social cf">
+                        <li class="blog"><a href="https://www.youtube.com/channel/UC9OjyRMO2tlBUeWNaKwUAkA/videos" target="_blank"><i class="fa fa-youtube" aria-hidden="true"></i></a></li>
+                        <li class="fb"><a href="https://www.facebook.com/viendidong/" target="_blank"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
+                        <li class="fm"><a href="#" onclick="show_box_mail();"><i class="fa fa-envelope-o" aria-hidden="true"></i></a></li>
+                        <li class="ff"><a href="#" onclick="return showPopup('hl');"><i class="fa fa-volume-control-phone" aria-hidden="true"></i></a></li>
+                        <li class="fb" id="Pagetop"><a href="#"><i class="fa fa-arrow-up" aria-hidden="true"></i></a></li>
+                    </ul>
+                    <!-- Box email -->
+                    <div id="box_mail1">
+                        <div id="bgpopupct"></div>
+                        <div id="box_mail" class="boxmailcss">
+                            <span class="close" onclick="tokenizeJavaScript:$('#box_mail1').hide();"></span>
+                            <h2 style="margin: 17px 17px 17px 34px; font-size: 1.6em;">Viện Di Động xin được hỗ trợ quý khách</h2>
+                            <div id="formBoxmail" style="padding-top: 43px;">
+                                <div id="error_mail"></div>
+                                <div>
+                                    <table>
+                                        <tbody>
+                                            <tr>
+                                                <td colspan="2">
+                                                    <div class="txtct">
+                                                        Tên họ:
+                                                    </div>
+                                                    <div class="row01">
+                                                        <input class="textbox txname" data-val="true" data-val-length="The field HoTen must be a string with a maximum length of 300." data-val-length-max="300" data-val-required="*" id="Contact_HoTen" name="Contact.HoTen" placeholder="Tên họ" type="text" value="" />
+                                                    </div>
+                                                </td>
+                                            </tr>
+                                            <tr>
+                                                <td>
+                                                    <div class="txtct">
+                                                        Số điện thoại:
+                                                    </div>
+                                                    <div class="row01 txphone">
+                                                        <input class="textbox" data-val="true" data-val-length="The field DienThoai must be a string with a maximum length of 150." data-val-length-max="150" data-val-required="*" id="Contact_DienThoai" name="Contact.DienThoai" placeholder="Số điện thoại ..." type="text" value="" />
+                                                    </div>
+                                                </td>
+                                                <td>
+                                                    <div class="txtct">
+                                                        Email:
+                                                    </div>
+                                                    <div class="row01 txphone">
+                                                        <input class="textbox" data-val="true" data-val-length="The field Email must be a string with a maximum length of 150." data-val-length-max="150" data-val-regex="*" data-val-regex-pattern="[A-Za-z0-9._%+-]+@[A-Za-z0-9.-]+\.[A-Za-z]{2,4}" data-val-required="*" id="Contact_Email" name="Contact.Email" placeholder="Email" type="text" value="" />
+                                                    </div>
+                                                </td>
+                                            </tr>
+                                            <tr>
+                                                <td colspan="2">
+                                                    <div class="txtct">
+                                                        Tiêu đề:
+                                                    </div>
+                                                    <div class="row01">
+                                                        <input class="textbox txname" id="Contact_TieuDe" name="Contact.TieuDe" placeholder="Tiêu đề ..." type="text" value="" />
+                                                    </div>
+                                                </td>
+                                            </tr>
+                                            <tr>
+                                                <td colspan="2">
+                                                    <div class="txtct">
+                                                        Nội dung:
+                                                    </div>
+                                                    <div class="row01" style="padding-top: 7px;">
+                                                        <textarea class="textbox txnoidung" cols="20" data-val="true" data-val-length="The field NoiDung must be a string with a maximum length of 5000." data-val-length-max="5000" data-val-required="*" id="Contact_NoiDung" name="Contact.NoiDung" placeholder="Nội dung ..." rows="2">
+                                              </textarea>
+                                                    </div>
+                                                </td>
+                                            </tr>
+                                        </tbody>
+                                    </table>
+                                    <div class="btn btn-info" onclick="buttonSend()">Gửi</div>
+                                    <div class="modal" style="display: none">
+                                        <div class="center">
+                                            <img alt="" src='/Images/ajax-loader.gif' style="border-radius: 50%;" />
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- hottline -->
+                    <div class="hottline">
+                        <div id="bgpopuphl" onclick="return hidepopup('hl')"></div>
+                        <div id="popuphl" style="display: none; padding: 12px; max-height: 300px">
+                            <img src='/images/index/Closepopup.png' class="closepup" onclick="return hidepopup('hl')" />
+                            <div class="ttle">
+                                <div style="border: 1px solid #fff701; background: #fff701;">
+                                    <h3>Thông tin hotline</h3>
+                                </div>
+                            </div>
+                            <p style="padding-left: 5px">
+                                Mọi chi tiết xin vui lòng liên hệ Trung tâm Đào tạo - Bảo Hành - Sửa chữa Điện thoại di động<br />
+                                Địa chỉ 1: Số 62A Trần Quang Khải,P. T&acirc;n Định, Q.1, TP.HCM<br />
+<div id="radePasteHelper" style="position: absolute; left: -10000px; border: 0px solid red; top: 0px; width: 1px; height: 1px; overflow: hidden;">
+<table class="rgMasterTable" id="ctl00_ContentBody_RadGrid1_ctl00" style="border-collapse: separate; font-stretch: normal; font-size: 12px; font-family: 'Segoe UI', Arial, Helvetica, sans-serif; line-height: 16px; color: #000000; width: 1267.2px; table-layout: auto; empty-cells: show;">
+    <tbody>
+        <tr class="rgRow" id="ctl00_ContentBody_RadGrid1_ctl00__6" style="cursor: default;">
+            <td style="padding: 4px 7px 3px; border-style: solid; border-top-width: 0px; border-right-width: 0px; border-bottom-width: 1px; border-color: #ffffff #e5e5e5;">
+            <div style="clear: both;"><a href="https://www.google.com/maps/place/241+Ho%C3%A0ng+V%C4%83n+Th%E1%BB%A5,+ph%C6%B0%E1%BB%9Dng+8,+Ph%C3%BA+Nhu%E1%BA%ADn,+H%E1%BB%93+Ch%C3%AD+Minh,+Vi%E1%BB%87t+Nam/@10.7998523,106.6669333,17z/data=!3m1!4b1!4m5!3m4!1s0x3175292f3cfcf1bd:0xebc70af5948493af!8m2!3d10.799847!4d106.669122" target="_blank" style="color: #000000;">Số 241 Ho&agrave;ng Văn Thụ, P. 8, Q. Ph&uacute; Nhuận, TP. HCM</a></div>
+            </td>
+        </tr>
+    </tbody>
+</table>
+</div><br/>Địa chỉ 2: <a href="https://www.google.com/maps/place/C%C3%B4ng+Ty+TNHH+C%C3%B4ng+Ngh%E1%BB%87+Vi%E1%BB%87n+Di+%C4%90%E1%BB%99ng/@10.7692329,106.6716757,17z/data=!4m5!3m4!1s0x31752edfd0cfba8f:0xb59ee8d6142b3be7!8m2!3d10.769231!4d106.673861" target="_blank">Số 608, L&ecirc; Hồng Phong, P. 10, Q.10, TP.HCM</a><br/>Địa chỉ 3: <a href="https://www.google.com/maps/place/241+Ho%C3%A0ng+V%C4%83n+Th%E1%BB%A5,+ph%C6%B0%E1%BB%9Dng+8,+Ph%C3%BA+Nhu%E1%BA%ADn,+H%E1%BB%93+Ch%C3%AD+Minh,+Vi%E1%BB%87t+Nam/@10.7998523,106.6669333,17z/data=!3m1!4b1!4m5!3m4!1s0x3175292f3cfcf1bd:0xebc70af5948493af!8m2!3d10.799847!4d106.669122" target="_blank">Số 241 Ho&agrave;ng Văn Thụ, P. 8, Q. Ph&uacute; Nhuận, TP. HCM</a><br/>Địa chỉ 4: <a href="https://www.google.com/maps/place/177+Nguy%E1%BB%85n+V%C4%83n+Linh,+Thanh+Kh%C3%AA,+%C4%90%C3%A0+N%E1%BA%B5ng,+Vi%E1%BB%87t+Nam/@16.0594729,108.2063582,17z/data=!3m1!4b1!4m5!3m4!1s0x314219b402a3c045:0xedcc3a6352e494bf!8m2!3d16.0594729!4d108.2085469" target="_blank">Số 177 Nguyễn Văn Linh, Thanh Kh&ecirc;, Đ&agrave; Nẵng</a><br/>
+                                Tư vấn kỹ thuật và tra cứu tiến độ sửa chửa :  19002057 - (028)71.062.062<br/>
+                                 Phản Ánh Chất Lượng Dịch Vụ : 	099 78 79 119<br/>
+                                Email : cskh@viendidong.com<br />
+                            </p>
+
+                        </div>
+                    </div>
+                </div>
+                <!-- / .social-list -->
+            
+            
+
+            <section id="Content">
+                <section id="Content-inner">
+                    
+
+    <section id="Subvisual" style="margin-top:-2px">
+        <div>
+            <p class="align-center">
+                    <img src='/images/index/091636_5.png' alt='' width='100%'>
+               
+            </p>
+        </div>
+    </section>
+    <!--/ Subvisual -->
+
+    <section id="Content-inner">
+        <article id="Service">
+            <div class="container">
+                <div class="section-title">
+                    <h2 class="ttl-h2">tra cứu<span> thông tin</span></h2>
+                </div>
+
+                <div class="section-block mt-20">
+                    <div class="col-md-10 col-md-offset-1 col-sm-offset-0">
+                        <ul class="bnr-link row">
+                            <li class="col-xs-6"><a href="#Modal-infoFix">
+                                <img src='/images/lookup/bnr02.png' alt="" class="img-responsive alpha " /></a></li>
+                            <li class="col-xs-6"><a href="#Modal-fix">
+                                <img src='/images/lookup/bnr01.png' alt="" class="img-responsive alpha " /></a></li>
+                        </ul>
+                        <!--/ bnr-link -->
+
+                    </div>
+
+                    <div class="remodal" id="myBS_Confirm_Modal" data-remodal-id="Modal-fix" role="dialog" aria-labelledby="modal1Title" aria-describedby="modal1Desc">
+                        <button data-remodal-action="close" class="remodal-close" aria-label="Close"></button>
+                        <div class="remodal-content">
+                            <div class="section-title mb-30">
+                                <h2 id="modal1Title" class="ttl-h2">tiến độ bảo hành-sửa chữa</h2>
+                            </div>
+
+                            <div id="modal1Desc">
+                                <div name="fixform" id="fixform">
+                                    <input type="hidden" value="final" name="step" />
+                                    <div class="row">
+                                        <div class="col-sm-6">
+                                            <p class="txt03">Số biên nhận</p>
+                                            <div class="input-text form-group">
+                                                <input name="ctl00$ContentPlaceBody$txt_SoBienNhan" type="text" id="ContentPlaceBody_txt_SoBienNhan" onkeypress="runScript(this)" class="input-name form-control" placeholder="Nhập số biên nhân của bạn" />
+                                            </div>
+                                            <!-- Field 1 -->
+                                        </div>
+                                        <div class="col-sm-6">
+                                            <p class="txt">Số Imei</p>
+                                            <div class="input-text form-group">
+                                                <input name="ctl00$ContentPlaceBody$txt_Imei" type="text" id="ContentPlaceBody_txt_Imei" onkeypress="runScript(this)" class="input-name form-control" placeholder="Nhập số Imei của bạn" />
+
+                                            </div>
+                                            <!-- Field 1 -->
+                                        </div>
+
+                                    </div>
+                                    <div class="row">
+                                        <div class="col-sm-6">
+                                            <p class="txt02">Số điện thoại</p>
+                                            <div class="input-text form-group">
+                                                <input name="ctl00$ContentPlaceBody$txt_SDT" type="text" id="ContentPlaceBody_txt_SDT" onkeypress="runScript(this)" class="input-name form-control" placeholder="Nhập số số điện thoại của bạn" />
+                                            </div>
+                                            <!-- Field 1 -->
+                                        </div>
+                                        <div class="col-sm-6">
+                                            <p class="txt00">&nbsp;</p>
+                                            <!-- Button -->
+                                            <div class="input-email form-group btn-submit" style="text-align: left">
+
+                                                <div class="btn btn-success" onclick="GetData()" id="btn_xem">Tra Cứu <i class="icon-paper-plane"></i></div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <!-- row -->
+                                    <div>
+                                        <section id="Content-inner2" style="display:none" >
+                                            <article id="Service2">
+                                                <div class="container">
+                                                    <div class="section-title visible-xs">
+                                                        <h2 class="ttl-h2 mb-40">Kết quả<span> Tra Cứu</span></h2>
+                                                    </div>
+                                                    <div class="row cf" >
+                                                        <div id="Side" class="col-md-2 col-sm-2" style="display:none">
+                                                            <div class="side-block">
+                                                                <h3 class="side-ttl accordione-sp"><i class="fa fa-cogs" aria-hidden="true"></i>Lần sửa máy<span class="visible-xs"><i class="fa fa-arrow-circle-down " aria-hidden="true"></i></span></h3>
+
+                                                                <ul class="side-nav hidden-sp" id="Id_Menu" style="display:none">
+                                                                    
+                                                                </ul>
+                                                                <!--/ .side-nav -->
+                                                            </div>
+                                                            <!--/ .side-block -->
+                                                        </div>
+                                                        <!--/ #Side -->
+                                                        
+                                                        <div id="IdContent"></div>
+                                                        <!--/ #Main -->
+                                                    </div>
+                                                    <!--/ .row -->
+                                                </div>
+                                                <!--/ container -->
+                                            </article>
+                                            <!-- / #Concept -->
+
+                                            <!-- / #Content-inner -->
+                                        </section>
+                                    </div>
+                                    
+                                    <!-- row -->
+                                </div>
+                            </div>
+                        </div>
+                        <!--/ remodal-content -->
+                    </div>
+
+                    <!--/ remodal -->
+
+                    <div class="remodal"  data-remodal-id="Modal-infoFix" role="dialog" aria-labelledby="modal1Title" aria-describedby="modal1Desc">
+                        <button data-remodal-action="close" class="remodal-close" aria-label="Close"></button>
+                        <div class="remodal-content">
+                            <div class="section-title mb-30">
+                                <h2 id="modal1Title" class="ttl-h2">Thông tin bảo hành sản phẩm</h2>
+                            </div>
+
+                            <div id="modal1Desc">
+                                <form role="form" name="fixform" id="fixform" method="post" action="#">
+                                    <input type="hidden" value="final" name="step" />
+                                    <div class="row">
+                                       
+                                        <div class="col-sm-4">
+                                            <p class="txt4">Số Imei</p>
+                                            <div class="input-text form-group">
+                                                <input type="text" id="txt_ImeiSP" name="Imei" value="" class="input-name form-control"  placeholder="Nhập số Emei của bạn" />
+                                            </div>
+                                            <!-- Field 1 -->
+                                        </div>
+                                        
+                                        <div class="col-sm-4">
+                                            <p class="txt05">Số Điện Thoại</p>
+                                            <div class="input-text form-group">
+                                                <input type="text" id="txt_SDTSP" name="Mobile" value="" class="input-name form-control"  placeholder="Nhập số Số điện thoại của bạn" />
+                                            </div>
+                                            <!-- Field 1 -->
+                                        </div>
+                                        <div class="col-sm-2">
+                                            <p class="txt00">&nbsp;</p>
+                                            <!-- Button -->
+                                            <div class="input-email form-group btn-submit" style="text-align: left">
+
+                                                <div class="btn btn-success" onclick="GetTTBHSP()" id="btn_xemSP">Tra Cứu <i class="icon-paper-plane"></i></div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <!-- row -->
+
+                                    <div class="result-info">
+                                       
+                                        <section id="Content-innerSP" style="display:none" >
+                                            <article id="ServiceSP">
+                                                <div class="container">
+                                                    <div class="section-title visible-xs">
+                                                        <h2 class="ttl-h2 mb-40">Kết quả<span> Tra Cứu</span></h2>
+                                                    </div>
+                                                    <div class="row cf" >
+                                                        <div id="SideSP" class="col-md-2 col-sm-2" style="display:none">
+                                                            <div class="side-block">
+                                                                <h3 class="side-ttl accordione-sp"><i class="fa fa-cogs" aria-hidden="true"></i>Số Hóa Đơn<span class="visible-xs"><i class="fa fa-arrow-circle-down " aria-hidden="true"></i></span></h3>
+
+                                                                <ul class="side-nav hidden-sp" id="Id_MenuSP" style="display:none">
+                                                                    </ul>
+                                                                </div>
+                                                            </div>
+
+                                                       
+                                                         <div id="IdContentSP"></div>
+                                                        </div>
+                                                    </div>
+                                                </article>
+                                            </section>
+                                    </div>
+                                    <!-- row -->
+                                </form>
+                            </div>
+                        </div>
+                        <!--/ remodal-content -->
+                    </div>
+                    <!--/ remodal -->
+
+                    <!--/ col -->
+                </div>
+                <!--/ section-block -->
+            </div>
+            <!--/ container -->
+        </article>
+        <!-- / #Concept -->
+
+        <!-- / #Content-inner -->
+    </section>
+
+    <!-- / #Content -->
+    <script src="Scripts/jquery.min.js"></script>
+    
+    <script src='/Scripts/remodal.js'></script>
+    <script>
+        $(document).ready(function () {
+            $(".social-list").stick_in_parent();
+
+            $(document).on('opening', '.remodal', function () {
+                console.log('opening');
+            });
+
+            $(document).on('opened', '.remodal', function () {
+                console.log('opened');
+            });
+
+            $(document).on('closing', '.remodal', function (e) {
+                console.log('closing' + (e.reason ? ', reason: ' + e.reason : ''));
+            });
+
+            $(document).on('closed', '.remodal', function (e) {
+                console.log('closed' + (e.reason ? ', reason: ' + e.reason : ''));
+            });
+
+            $(document).on('confirmation', '.remodal', function () {
+                console.log('confirmation');
+            });
+
+            $(document).on('cancellation', '.remodal', function () {
+                console.log('cancellation');
+            });
+        });
+    </script>
+    <script src='/Scripts/numeral.min.js'></script>
+
+    <script type="text/javascript">
+        
+        function GetTTBHSPChiTiet(table,tab,SoHD) {
+            var URLSite = "http://baohanhdientu.vn/viendidong/ws/Getdata.asmx/TraCuuThongTinSanPhamD";
+            $.ajax({
+                url: URLSite,
+
+                type: 'POST',
+                data: { _ID: SoHD},
+                dataType: "text",
+
+                success: function (resp) {
+                    var repsValues = resp;
+                    if (resp == null)
+                        repsValues = resp.d;
+                    var kqCT = repsValues.toString().replace("<?xml version=\"1.0\" encoding=\"utf-8\"?>", "").replace("<string xmlns=\"http://tempuri.org/\">", "").replace("</string>", "").replace("<string xmlns=\"http://tempuri.org/\" />", "");  //3.5   
+                    if (kqCT.toString().trim().length == 0) {
+                        table.innerHTML = "";
+                    }
+                    else {
+                        var DanhsachChiTiet = JSON.parse(kqCT.toString());
+                        var ThanhToanTongTien = Number(DanhsachChiTiet[0].ThanhToanTongTien.toString());
+                        var ThanhToanChiecKhau = Number(DanhsachChiTiet[0].ThanhToanChiecKhau.toString());
+                      
+                        var PhanTram = numeral((ThanhToanChiecKhau / ThanhToanTongTien) * 100).format('0,0');
+                        var ThanhToanQuetThe = Number(DanhsachChiTiet[0].ThanhToanQuetThe.toString());
+                        var str = "<div  class='col-md-8 col-sm-8 mt-sp'>"
+                                                        + " <article id='Training'>"
+                                                        + "  <div class='training-info' style='text-align: left;font-family:Arial'>"
+                                                        + "   <div class='secsion-block' style='clear: both'>"
+                                                        + "               <div class='col-md-4 '>"
+                                                        + "                <p class='TieuDe'> Thông tin chung</p>"
+                                                        + "                    <div class='secsion-block' style='clear: both'>"
+                                                        + "                           <div class='col-md-12'> Ngày tạo :" + DanhsachChiTiet[0].NgayTao.toString() + "</div>"
+                                                         + "                          <div class='col-md-12'>Doanh nghiệp : " + DanhsachChiTiet[0].DoanhNghiep.toString() + "</div>"
+                                                         + "                           <div class='col-md-12'>Cửa hàng : " + DanhsachChiTiet[0].CuaHang.toString() + "</div>"
+                                                         + "                           <div class='col-md-12'>Thu ngân : " + DanhsachChiTiet[0].ThuNgan.toString() + "</div>"
+                                                         + "                      </div>"
+                                                         + "               </div>"
+                                                         + "               <div class='col-md-4'>"
+                                                         + "                 <p class='TieuDe'>  Khách hàng</p>"
+                                                         + "                    <div class='secsion-block' style='clear: both'>"
+                                                         + "                         <div class='col-md-12'>Họ tên :  " + DanhsachChiTiet[0].TenKhachHang.toString() + "</div>"
+                                                         + "                        <div class='col-md-12'>Điện thoại : " + DanhsachChiTiet[0].SDTKhachHang.toString() + "</div>   "
+                                                         + "                         <div class='col-md-12'>Địa chỉ : " + DanhsachChiTiet[0].DiaChiKhachHang.toString() + " </div>  "
+                                                         + "                         <div class='col-md-12'>Email : " + DanhsachChiTiet[0].EmailKhachHang.toString() + "</div>  "
+                                                         + "                         <div class='col-md-12'>Facebook : " + DanhsachChiTiet[0].FacebookKhachHang.toString() + " </div> "
+                                                         + "                                </div>"
+                                                         + "                   </div>"
+                                                         + "                <div class='col-md-4'>"
+                                                         + "                  <p class='TieuDe'> Thanh toán</p>"
+                                                         + "                     <div class='secsion-block' style='clear: both'>"
+                                                         + "                          <div class='col-md-12'>Tổng tiền: " + numeral(ThanhToanTongTien).format('0,0') + "</div>"
+                                                         + "                          <div class='col-md-12'>Chiết khấu : " + numeral(ThanhToanChiecKhau).format('0,0') + "(" + PhanTram + "%)</div>"
+                                                         + "                          <div class='col-md-12'>Thanh toán quẹt thẻ : " + numeral(ThanhToanQuetThe).format('0,0') + "</div>"
+                                                         + "                          <div class='col-md-12'>Tài khoản quẹt thẻ: " + DanhsachChiTiet[0].TaiKhoanQuetThe.toString() + "</div>"
+                                                         + "                          <div class='col-md-12'>Ngày hẹn thanh toán: " + DanhsachChiTiet[0].NgayHenThanhToan.toString() + "</div>"
+                                                         + "                      </div>"
+                                                         + "                 </div> "
+                                                         + "              </div>"
+                                                         + "           </div>"
+                                                         + " <div class='training-info' style='text-align: left'><table class='table'> <tr><th>STT</th><th>Mã Sản Phẩm</th><th>Tên Sản Phẩm</th><th>Giá</th><th>SL</th><th>Chiết Khấu</th><th>Thành tiền</th><th>Ghi Chú</th></tr> ";
+                        
+                        var TongSL = 0;
+                        var TongTT = 0;
+                        for (var i = 0; i < DanhsachChiTiet.length; i++) {
+                            var GiaBan = Number(DanhsachChiTiet[i].GiaBan);
+                            var SL=Number(DanhsachChiTiet[i].SoLuong);
+                           
+                            var ChiecKhau = Number(DanhsachChiTiet[i].ChiecKhau);
+                          
+                            var ThanhTien = Number(DanhsachChiTiet[i].ThanhTien);
+                            TongTT += ThanhTien;
+                            str+=" <tr>"
+                             + "        <td>" + DanhsachChiTiet [i].STT+ "</td>"
+                             + "         <td>" + DanhsachChiTiet[i].MaSanPham + "</td>"
+                             + "         <td>" + DanhsachChiTiet[i].TenSanPham + "</td>"
+                             + "        <td style='text-align: right;'>" + numeral(GiaBan).format('0,0') + "</td>"
+                             + "        <td>" + DanhsachChiTiet[i].SoLuong + "</td>"
+                             + "        <td style='text-align: right;'>" + numeral(ChiecKhau).format('0,0') + "</td>"
+                             + "        <td style='text-align: right;'>" + numeral(ThanhTien).format('0,0') + "</td>"
+                             + "        <td>" + DanhsachChiTiet[i].GhiChu + "</td>"
+                             + "    </tr>"
+                        }
+                        str += "<tr><td colspan='3' style='font-weight: bold;text-align: right;'>Tổng</td><td style='font-weight: bold;text-align: right;'>" + numeral(ThanhToanTongTien).format('0,0') + "</td><td style='font-weight: bold;'>" + numeral(TongSL).format('0,0') + "</td><td style='font-weight: bold;text-align: right;'>" + numeral(ThanhToanChiecKhau).format('0,0') + "</td><td style='font-weight: bold;text-align: right;'>" + numeral(ThanhTien).format('0,0') + "</td><td></td></tr></table></div> </article></div>';"
+                        table.innerHTML=str;
+                    }
+                },
+                error: function (e) {
+                    alert('Error: ' + e);
+                }
+            });
+        }
+        function GetTTBHSP()
+        {
+            var txt_ImeiSP = document.getElementById('txt_ImeiSP');
+            var txt_SDTSP = document.getElementById('txt_SDTSP');
+            var URLSite = "http://baohanhdientu.vn/viendidong/ws/Getdata.asmx/TraCuuThongTinSanPhamM";
+            $.ajax({
+                url: URLSite,
+
+                type: 'POST',
+                data: { _SoImei: txt_ImeiSP.value, _SoDienThoai: txt_SDTSP.value },
+                dataType: "text",
+
+                success: function (resp) {
+                    var repsValues = resp;
+                    if (resp == null)
+                        repsValues = resp.d;
+                    var kq = repsValues.toString().replace("<?xml version=\"1.0\" encoding=\"utf-8\"?>", "").replace("<string xmlns=\"http://tempuri.org/\">", "").replace("</string>", "").replace("<string xmlns=\"http://tempuri.org/\" />", "");  //3.5   
+
+                    if (kq.toString().trim().length == 0) {
+                        document.getElementById("Content-innerSP").style.display = "block";
+                        document.getElementById("SideSP").style.display = "none";
+                        document.getElementById("Id_MenuSP").innerHTML = "";
+                        document.getElementById("IdContentSP").innerHTML = "<b style=\"color: red;font-size: 20px;\">Không tìn thấy kết quả trên hệ thống!</b>";
+                    }
+                    else {
+                        document.getElementById("Content-innerSP").style.display = "block";
+                        var DanhsachHD = JSON.parse(kq.toString());
+                        CreateHoaDon(DanhsachHD);
+                    }
+                },
+                error: function (e) {
+                    alert('Error: ' + e);
+                }
+            });
+
+        }
+
+        function GetData() {
+
+            var txt_SoBienNhan = document.getElementById('ContentPlaceBody_txt_SoBienNhan');
+            var txt_Imei = document.getElementById('ContentPlaceBody_txt_Imei');
+            var txt_SDT = document.getElementById('ContentPlaceBody_txt_SDT');
+
+            var fbURL = "http://baohanhdientu.vn/viendidong/ws/Getdata.asmx/TraCuuBaoHanh";
+
+            $.ajax({
+                url: fbURL,
+
+                type: 'POST',
+                data: { _SoBienNhan: txt_SoBienNhan.value, _SoImei: txt_Imei.value, _SoDienThoai: txt_SDT.value },
+                dataType: "text",
+
+                success: function (resp) {
+                    var repsValues = resp;
+                    if (resp == null)
+                        repsValues = resp.d;
+                    var kq = repsValues.toString().replace("<?xml version=\"1.0\" encoding=\"utf-8\"?>", "").replace("<string xmlns=\"http://tempuri.org/\">", "").replace("</string>", "").replace("<string xmlns=\"http://tempuri.org/\" />", "");  //3.5      
+
+                    if (kq.toString().trim().length == 0) {
+                        document.getElementById("Content-inner2").style.display = "block";
+                        document.getElementById("Side").style.display = "none";
+                        document.getElementById("Id_Menu").innerHTML = "";
+                        document.getElementById("IdContent").innerHTML = "<b style=\"color: red;font-size: 20px;\">Không tìn thấy kết quả trên hệ thống!</b>";
+                    }
+                    else {
+                        document.getElementById("Content-inner2").style.display = "block";
+                        var Danhsach = JSON.parse(kq.toString());
+                        CreateSoLan(Danhsach);
+                    }
+
+                    //for (var j = 0; j < Danhsach.length; j++) {
+
+                    //    alert(Danhsach[j].STT);
+                    //}
+                },
+                error: function (e) {
+                    alert('Error: ' + e);
+                }
+            });
+
+        }
+        function formatNumber(values) {
+            var regex = new RegExp(',', 'g');
+
+            
+
+            return numeral(num).format('0,0');
+
+        }
+        function CreateHoaDon(Danhsach) {
+
+            document.getElementById("SideSP").style.display = "block";
+            document.getElementById("Id_MenuSP").innerHTML = "";
+            document.getElementById("IdContentSP").innerHTML = "";
+            var str = "";
+            for (var i = 0; i < Danhsach.length; i++) {
+                var li = document.createElement("li");
+                var table = document.createElement("div");
+               
+                table.id = "TabSP_" + (i + 1);
+                if (i == 0) {
+
+                    li.innerHTML = "<a class=\"activeMenu\" id='MenuSP_" + (i + 1) + "' onclick=\"ShowTabSP('TabSP_" + (i + 1) + "','" + Danhsach.length + "','MenuSP_" + (i + 1) + "')\">" + Danhsach[i].ID.toString() + "</a></li>";
+
+                }
+                else {
+                    table.style.display = "None";
+                    li.innerHTML = "<a  id='MenuSP_" + (i + 1) + "' onclick=\"ShowTabSP('TabSP_" + (i + 1) + "','" + Danhsach.length + "','MenuSP_" + (i + 1) + "')\">" + Danhsach[i].ID.toString() + "</a></li>";
+                }
+                GetTTBHSPChiTiet(table,(i + 1), Danhsach[i].ID.toString());
+                document.getElementById("Id_MenuSP").appendChild(li);
+                document.getElementById("SideSP").style.display = "block";
+                document.getElementById("IdContentSP").appendChild(table);
+            }
+            
+        }
+        function CreateSoLan(Danhsach)
+        {
+            
+            document.getElementById("Side").style.display = "block";
+            document.getElementById("Id_Menu").innerHTML = "";
+            document.getElementById("IdContent").innerHTML = "";
+            var str = "";
+            for (var i = 0; i < Danhsach.length; i++) {
+                var li = document.createElement("li");
+                var table = document.createElement("div");
+                table.className = "col-md-8 col-sm-8 mt-sp article";
+                table.id="Tab_" + (i + 1);
+                if (i == 0)
+                {
+                    
+                    li.innerHTML = "<a class=\"activeMenu\" id='Menu_" + (i + 1) + "' onclick=\"ShowTab('Tab_" + (i + 1) + "','" + Danhsach.length + "','Menu_" + (i + 1) + "')\">Lần " + (i + 1) + "</a></li>";
+                    
+                }
+                else
+                {
+                    table.style.display = "None";
+                    li.innerHTML = "<a  id='Menu_" + (i + 1) + "' onclick=\"ShowTab('Tab_" + (i + 1) + "','" + Danhsach.length + "','Menu_" + (i + 1) + "')\">Lần " + (i + 1) + "</a></li>";
+                }
+                var MucPhiThucThu = Number(Danhsach[i].MucPhiThucThu.toString());
+                var MucPhiTamTinh = Number(Danhsach[i].MucPhiTamTinh.toString());
+                table.innerHTML = "<article  ><div class=\"training-info\" style=\"text-align: left\"> <div class=\"secsion-block\" style=\"clear: both\"> <div class=\"col-md-3 Backcolor\">Tên khách hàng </div><div class=\"col-md-3 backND \">" + (Danhsach[i].TenKhachHang == null ? "" : Danhsach[i].TenKhachHang) + "</div><div class=\"col-md-3 Backcolor\">Số điện thoại KH</div><div class=\"col-md-3 backND\">" + Danhsach[i].SoDienThoai + " </div> </div><div class=\"secsion-block\" style=\"clear: both\">  <div class=\"col-md-3 Backcolor\"> Địa chỉ KH</div><div class=\"col-md-3 backND\"> " + (Danhsach[i].DiaChi == null ? "" : Danhsach[i].DiaChi) + "</div><div class=\"col-md-3 Backcolor\">Nhắn tin thông báo sms khi sửa xong</div> <div class=\"col-md-3 backND\">  " + Danhsach[i].NhanTinSms + " </div> </div> <div class=\"secsion-block\" style=\"clear: both\"> <div class=\"col-md-3 Backcolor\">Loại điện thoại</div><div class=\"col-md-3 backND\"> " + Danhsach[i].LoaiDienThoai + "</div><div class=\"col-md-3 Backcolor\">Model: </div><div class=\"col-md-3 backND\"> " + Danhsach[i].Model + "</div> </div><div class=\"secsion-block\" style=\"clear: both\"> <div class=\"col-md-3 Backcolor\"> Màu máy</div> <div class=\"col-md-3 backND\">" + Danhsach[i].MauMay + "</div><div class=\"col-md-3 Backcolor\">Imei </div><div class=\"col-md-3 backND\"> " + Danhsach[i].Imei + " </div> </div><div class=\"secsion-block\" style=\"clear: both\"><div class=\"col-md-3 Backcolor\"> Ngày nhận máy</div><div class=\"col-md-3 backND\">  " + (Danhsach[i].NgayNhan == null ? "" : Danhsach[i].NgayNhan) + " </div> <div class=\"col-md-3 Backcolor\"> Kỹ thuật kiểm máy</div> <div class=\"col-md-3 backND\"> " + (Danhsach[i].KyThuatKiemTra == null ? "" : Danhsach[i].KyThuatKiemTra) + "</div></div><div class=\"secsion-block\" style=\"clear: both\"><div class=\"col-md-3 Backcolor\">NV tiếp nhận</div><div class=\"col-md-3 backND\">" + (Danhsach[i].NhanVienTiepNhan == null ? "" : Danhsach[i].NhanVienTiepNhan) + " </div><div class=\"col-md-3 Backcolor\">Ngày hẹn thông báo tình trạng máy</div><div class=\"col-md-3 backND\">" + (Danhsach[i].NgayHen == null ? "" : Danhsach[i].NgayHen) + "</div></div><div class=\"secsion-block\" style=\"clear: both\"><div class=\"col-md-3 Backcolor\"><b>Tình trạng máy gửi</b></div><div class=\"col-md-9 backND\">" + Danhsach[i].LoiMay + "</div></div><div class=\"secsion-block\" style=\"clear: both\"><div class=\"col-md-3 Backcolor\">Biện pháp khắc phục </div><div class=\"col-md-9 backND\">" + (Danhsach[i].BienPhap == null ? "" : Danhsach[i].BienPhap) + "</div></div></div><div class=\"secsion-block\" style=\"clear: both\"><div class=\"col-md-3 Backcolor\"> Tình trạng bảo hành </div><div class=\"col-md-3 backND\">" + Danhsach[i].TinhTrangBaoHanh + " </div><div class=\"col-md-3 Backcolor\"> Mức phí đã tạm tính </div> <div class=\"col-md-3 backND\">" + numeral(MucPhiTamTinh).format('0,0') + "</div></div> <div class=\"secsion-block\" style=\"clear: both\"> <div class=\"col-md-3 Backcolor\"> Mức phí thực thu </div><div class=\"col-md-3 backND\"> " + numeral(MucPhiThucThu).format('0,0') + " </div><div class=\"col-md-3 Backcolor\">Thu phí khách hàng </div> <div class=\"col-md-3 backND\"> " + Danhsach[i].ThuPhiMK + " </div> </div>  <div class=\"secsion-block\" style=\"clear: both\"><div class=\"col-md-3 Backcolor\"><b> Kết quả tra cứu</b></div> <div class=\"col-md-9 backND\">" + (Danhsach[i].ThongTinSuaChua == null ? "" : Danhsach[i].ThongTinSuaChua) + "</div></div></div> </article>";
+                document.getElementById("Id_Menu").appendChild(li);
+                document.getElementById("Side").style.display = "block";
+                document.getElementById("IdContent").appendChild(table);
+            }
+           
+        }
+        function ShowTabSP(tab, sl, menu) {
+            for (i = 0; i < sl; i++) {
+                var tab2 = "#TabSP_" + (i + 1);
+                $(tab2).css('display', 'inline').hide().fadeOut();
+
+
+            }
+
+            $("#" + tab).css('display', 'inline').hide().fadeIn();;
+            for (j = 0; j < sl; j++) {
+                var menu2 = "MenuSP_" + (j + 1);
+
+                $("#" + menu2).removeClass("activeMenu");
+            }
+            $("#" + menu).addClass("activeMenu");
+        }
+        function ShowTab(tab, sl, menu) {
+            for (i = 0; i < sl; i++) {
+                var tab2 = "#Tab_" + (i + 1);
+                $(tab2).css('display', 'inline').hide().fadeOut();
+
+
+            }
+
+            $("#" + tab).css('display', 'inline').hide().fadeIn();;
+            for (j = 0; j < sl; j++) {
+                var menu2 = "Menu_" + (j + 1);
+
+                $("#" + menu2).removeClass("activeMenu");
+            }
+            $("#" + menu).addClass("activeMenu");
+        }
+
+        function runScript(e) {
+            if (event.which == 13 || event.keyCode == 13)  {
+                GetData();
+            }
+        }
+    </script>
+    <br />
+
+                    
+                        <br />
+                        <div class="navi-common">
+                            <ul class="list-navi">
+                                <li><a href='http://viendidong.com/dao-tao'><img src='/images/common/133812_navi01.png' alt='' class='img-responsive'><img src='/images/common/133812_navi01_hover.png' alt='' class='img-responsive img-top'><span>Đào tạo dạy nghề</span></a></li><li><a href='http://viendidong.com/dich-vu'><img src='/images/common/133842_navi02.png' alt='' class='img-responsive'><img src='/images/common/133842_navi02_hover.png' alt='' class='img-responsive img-top'><span>Bảo hành sửa chữa</span></a></li><li><a href='http://viendidong.com/tra-cuu'><img src='/images/common/133929_navi03.png' alt='' class='img-responsive'><img src='/images/common/133929_navi03_hover.png' alt='' class='img-responsive img-top'><span>Tra cứu thông tin</span></a></li><li><a href='http://viendidong.com/tra-cuu-gia'><img src='/images/common/134007_navi04.png' alt='' class='img-responsive'><img src='/images/common/134007_navi04_hover.png' alt='' class='img-responsive img-top'><span>Bảng giá dịch vụ</span></a></li><li><a href='/#'><img src='/images/common/134035_navi05.png' alt='' class='img-responsive'><img src='/images/common/134035_navi05_hover.png' alt='' class='img-responsive img-top'><span>Giải pháp công nghệ</span></a></li><li><a href='http://viendidong.com/bang-gia-PK'><img src='/images/common/134103_navi06.png' alt='' class='img-responsive'><img src='/images/common/134103_navi06_hover.png' alt='' class='img-responsive img-top'><span>Linh kiện phụ kiện</span></a></li>
+                              
+                            </ul>
+                        </div>
+
+                    
+                    
+
+                    <!-- / #Bnr -->
+                </section>
+                <!-- / #Content-inner -->
+            </section>
+            <!-- / #Content -->
+            
+                <div class="top-footer">
+                    <div class="container">
+                        <div class="row">
+                            <div class="col-sm-6">
+                                <img src='/images/index/logo-f.png'>
+                            </div>
+                            <div class="col-sm-6 text-right">
+                                <img src='/images/index/phone.png'>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <footer>
+                   <div class="container">
+            <div class="row fixHeight">
+                <div class="col-md-2 col-sm-6 mb-sp oS-slideUp fixHeightChild">
+                                <h2 class="f-ttl-h2">Về Viện Di Động</h2>
+                                <ul class="list-info">
+                                    <li><a class="oK-moveRight" href='/gioi-thieu'>Giới thiệu</a></li>
+                                    <li><a class="oK-moveRight" href='/dao-tao'>Đào tạo</a> </li>
+                                    <li><a class="oK-moveRight" href='/dich-vu'>Dịch vụ</a> </li>
+                                    <li><a class="oK-moveRight" href='/hop-tac'>Hợp tác</a> </li>
+                                    <li><a class="oK-moveRight" href='/tuyen-dung'>Tuyển dụng</a> </li>
+                                    <li><a class="oK-moveRight" href='/lien-he'>Liên hệ</a> </li>
+                                    
+                                </ul>
+                            </div>
+                            <!-- / .col -->
+                            <div class="col-md-2 col-sm-6 mb-sp oS-slideUp fixHeightChild">
+                                <h2 class="f-ttl-h2">Dịch vụ & hỗ trợ</h2>
+                                <ul class="list-info">
+                                     <li><a href='/thong-tin/9/giai-dap-ho-tro' class='oK-moveRight'>Giải Đáp & Hỗ Trợ</a></li><li><a href='/thong-tin/1/gioi-thieu' class='oK-moveRight'>Giới thiệu</a></li><li><a href='/thong-tin/2/bao-hanh-sua-chua' class='oK-moveRight'>Bảo hành sửa chữa</a></li><li><a href='/thong-tin/3/hop-tac-dich-vu' class='oK-moveRight'>Hợp tác dịch vụ</a></li><li><a href='/thong-tin/11/ho-tro-tu-xa' class='oK-moveRight'>Hỗ Trợ Từ Xa</a></li><li><a href='/thong-tin/7/tuyen-dung' class='oK-moveRight'>Tuyển Dụng</a></li>
+                                    
+                                </ul>
+
+                            </div>
+                            <!-- / .col -->
+                            <div class="col-md-2 col-sm-6 mt-sp oS-slideUp dly-250 fixHeightChild">
+                                <h2 class="f-ttl-h2">Số lượng truy cập</h2>
+                                <ul class="list-info">
+                                    <li>Đang online: <span class="text-blue">315</span> </li>
+                                    <li>Trong ngày: <span class="text-blue">475</span></li>
+                                    <li>Trong tuần: <span class="text-blue">5172</span></li>
+                                    <li>Trong tháng: <span class="text-blue">61858</span></li>
+                                    <li>Tất Cả: <span class="text-blue">388,576</span></li>
+                                </ul>
+                            </div>
+                            <!-- / .col -->
+                            <div class="col-md-3 col-sm-6 mt-sp oS-slideUp dly-500 fixHeightChild">
+                                <h2 class="f-ttl-h2">Kết nối viện di động</h2>
+                                <div style="margin-top:10px" class="fb-page" data-href="https://www.facebook.com/viendidong/" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true">
+                                    <blockquote cite="https://www.facebook.com/viendidong/" class="fb-xfbml-parse-ignore">
+                                        <a href="https://www.facebook.com/viendidong/">Viện Di Động - Viendidong.com</a>
+                                    </blockquote>
+                                </div>
+                            </div>
+                            <!-- / .col -->
+                            <div class="col-md-3 col-sm-6 mt-sp oS-slideUp dly-600 fixHeightChild">
+                                <h2 class="f-ttl-h2" style="margin-bottom:10px">Tổng đài chăm sóc khách hàng</h2>
+                                <p>
+                                    Tư vấn kỹ thuật và tra cứu tiến độ sửa chữa: <br />
+                                      <b class='text-red'>19002057 - (028)71.062.062</b>
+                   
+                                </p>
+                                <p>
+                                    Phản hồi chất lượng dịch vụ:<br />
+                                     <b class='text-red'>	099 78 79 119</b>
+                                    
+                                </p>
+                                <p>
+                                     <li>  <span ></span> <span style="font-size: 13px; color: #7f7f7f;">Giờ l&agrave;m việc:</span><br />
+<strong class="text-red">8:30 - 19:00 ( T2 - T7 )</strong>
+<br />
+<strong class="text-red">8:30 - 15:00 CN</strong><br/></li>
+                                  
+                                </p>
+                            </div>
+                        </div>
+                       </div>
+                        <div class="bg-gray line-footer">
+            <div class="container">
+                <span>*** Top 5 tìm kiếm nhiều nhất</span>
+                 <span><a href='/dich-vu-chi-tiet/115/mo-khoa-icloud-iphone-5s-16gb'>.Mở Khóa iCloud iPhone 5S 16GB</a></span><span><a href='/dich-vu-chi-tiet/284/thay-pin-samsung-s6-active'>.Thay Pin SAMSUNG S6 Active</a></span><span><a href='/dich-vu-chi-tiet/119/thay-kinh-samsung-a9'>.Thay Kính SAMSUNG A9</a></span><span><a href='/dich-vu-chi-tiet/16/ep-kinh-iphone-6s'>.Ép Kính iPhone 6S</a></span><span><a href='/dich-vu-chi-tiet/87/thay-cam-ung-sony-z3'>.Thay Cảm Ứng SONY Z3</a></span>
+            </div>
+        </div>
+        <div class="container">
+            <div class="row">
+                <div class="col-sm-6">
+                    <h2 class="f-ttl-h2">HỆ THỐNG DỊCH VỤ BẢO HÀNH - ĐÀO TẠO & SỬA CHỮA THIẾT BỊ ĐIỆN THOẠI DI ĐỘNG</h2>
+                      <p> Nhanh Ch&oacute;ng - Uy T&iacute;n - Chuy&ecirc;n Nghiệp.<br /></p>
+                    <li>  <p> Số 62A Trần Quang Khải,P. T&acirc;n Định, Q.1, TP.HCM<br />
+<div id="radePasteHelper" style="position: absolute; left: -10000px; border: 0px solid red; top: 0px; width: 1px; height: 1px; overflow: hidden;">
+<table class="rgMasterTable" id="ctl00_ContentBody_RadGrid1_ctl00" style="border-collapse: separate; font-stretch: normal; font-size: 12px; font-family: 'Segoe UI', Arial, Helvetica, sans-serif; line-height: 16px; color: #000000; width: 1267.2px; table-layout: auto; empty-cells: show;">
+    <tbody>
+        <tr class="rgRow" id="ctl00_ContentBody_RadGrid1_ctl00__6" style="cursor: default;">
+            <td style="padding: 4px 7px 3px; border-style: solid; border-top-width: 0px; border-right-width: 0px; border-bottom-width: 1px; border-color: #ffffff #e5e5e5;">
+            <div style="clear: both;"><a href="https://www.google.com/maps/place/241+Ho%C3%A0ng+V%C4%83n+Th%E1%BB%A5,+ph%C6%B0%E1%BB%9Dng+8,+Ph%C3%BA+Nhu%E1%BA%ADn,+H%E1%BB%93+Ch%C3%AD+Minh,+Vi%E1%BB%87t+Nam/@10.7998523,106.6669333,17z/data=!3m1!4b1!4m5!3m4!1s0x3175292f3cfcf1bd:0xebc70af5948493af!8m2!3d10.799847!4d106.669122" target="_blank" style="color: #000000;">Số 241 Ho&agrave;ng Văn Thụ, P. 8, Q. Ph&uacute; Nhuận, TP. HCM</a></div>
+            </td>
+        </tr>
+    </tbody>
+</table>
+</div></p>  <p> <a href="https://www.google.com/maps/place/C%C3%B4ng+Ty+TNHH+C%C3%B4ng+Ngh%E1%BB%87+Vi%E1%BB%87n+Di+%C4%90%E1%BB%99ng/@10.7692329,106.6716757,17z/data=!4m5!3m4!1s0x31752edfd0cfba8f:0xb59ee8d6142b3be7!8m2!3d10.769231!4d106.673861" target="_blank">Số 608, L&ecirc; Hồng Phong, P. 10, Q.10, TP.HCM</a></p>  <p> <a href="https://www.google.com/maps/place/241+Ho%C3%A0ng+V%C4%83n+Th%E1%BB%A5,+ph%C6%B0%E1%BB%9Dng+8,+Ph%C3%BA+Nhu%E1%BA%ADn,+H%E1%BB%93+Ch%C3%AD+Minh,+Vi%E1%BB%87t+Nam/@10.7998523,106.6669333,17z/data=!3m1!4b1!4m5!3m4!1s0x3175292f3cfcf1bd:0xebc70af5948493af!8m2!3d10.799847!4d106.669122" target="_blank">Số 241 Ho&agrave;ng Văn Thụ, P. 8, Q. Ph&uacute; Nhuận, TP. HCM</a></p>  <p> <a href="https://www.google.com/maps/place/177+Nguy%E1%BB%85n+V%C4%83n+Linh,+Thanh+Kh%C3%AA,+%C4%90%C3%A0+N%E1%BA%B5ng,+Vi%E1%BB%87t+Nam/@16.0594729,108.2063582,17z/data=!3m1!4b1!4m5!3m4!1s0x314219b402a3c045:0xedcc3a6352e494bf!8m2!3d16.0594729!4d108.2085469" target="_blank">Số 177 Nguyễn Văn Linh, Thanh Kh&ecirc;, Đ&agrave; Nẵng</a></p></li>
+                   
+                    <p>Tel: 19002057 - (08)71 062 062</p>
+                    <p>Email: cskh@viendidong</p>
+                </div>
+                <div class="col-sm-4">
+                    <h2 class="f-ttl-h2">CHẤP NHẬN THANH TOÁN</h2>
+                    <img src='/images/index/f1.png' alt="" />
+                    <img src='/images/index/f2.png' alt="" />
+                    <img src='/images/index/f3.png' alt="" />
+                    <img src='/images/index/f4.png' alt="" />
+                    <img src='/images/index/f5.png' alt="" />
+                </div>
+                <div class="col-sm-2">
+                    <h2 class="f-ttl-h2">CHẤP NHẬN SGD TMDT</h2>
+                  <a target="_blank" href="http://online.gov.vn/CustomWebsiteDisplay.aspx?DocId=16882">  <img src='/images/index/dadangky.png'  alt="" /></a>
+                </div>
+            </div>
+        </div>
+                    
+                    <!-- / .container -->
+                </footer>
+            
+            
+                <!-- / #Footer -->
+              <p id="Copyright">
+    	Viện Di Động HỆ THỐNG DỊCH VỤ BẢO HÀNH -  ĐÀO TẠO VÀ SỬA CHỮA THIẾT BỊ DI DỘNG
+       608 Lê Hồng Phong, Phường 10, Quận 10, TP HCM
+      Chủ sở hữu: Nguyễn Thị Kinh Xuân
+    </p>
+
+            
+            
+
+            <!-- / #Pagetop -->
+            <!-- / #Container -->
+            <p class="spMenu"><a href="#" class="panelBtn"><span class="panelBtnIcon"></span></a></p>
+
+            <!--javascript-->
+
+            <script>window.jQuery || document.write('<script src="/Scripts/vendor/jquery-1.11.0.min.js"><\/script>')</script>
+            <script type="text/javascript" src='/Scripts/bootstrap.min.js'></script>
+            <script src='/Scripts/opacity-rollover2.1.js'></script>
+            <script src='/Scripts/jquery.bxslider.js'></script>
+            <script src='/Scripts/accordione.js'></script>
+            <script type="text/javascript" src='/Scripts/bootstrap.min.js'></script>
+            <script src='/Scripts/slick.js'></script>
+            <script type="text/javascript">
+                $(document).ready(function () {
+
+                    $('.slider-for').slick({
+                        slidesToShow: 1,
+                        slidesToScroll: 1,
+                        arrows: false,
+                        fade: false,
+                        autoplay: true,
+                        asNavFor: '.slider-nav'
+                    });
+                    $('.slider-nav').slick({
+                        slidesToShow: 5,
+                        slidesToScroll: 1,
+                        asNavFor: '.slider-for',
+                        dots: false,
+                        //				centerMode: true,
+                        focusOnSelect: true,
+                        responsive: [
+                        {
+                            breakpoint: 540,
+                            settings: {
+                                arrows: false,
+                                centerMode: true,
+                                centerPadding: '40px',
+                                slidesToShow: 3
+                            }
+                        }
+                        ]
+                    });
+                    $('.slider-right01').slick({
+                        infinite: true,
+                        speed: 700,
+                        fade: true,
+                        autoplay: true,
+                        slidesToShow: 1,
+                        adaptiveHeight: true
+                    });
+                    $('.slider-right02').slick({
+                        infinite: true,
+                        speed: 700,
+                        fade: true,
+                        autoplay: true,
+                        slidesToShow: 1,
+                        adaptiveHeight: true
+                    });
+
+                    // Add background opacity for product-item
+                    $(".block-Service").hover(function () {
+                        $(this).find('.over').stop().fadeTo("fast", 1);
+                    },
+                      function () {
+                          $(this).find('.over').stop().fadeTo("fast", 0);
+                      });
+
+
+                });
+            </script>
+            <script>
+                $(document).ready(function () {
+
+                });
+            </script>
+
+            <script type="text/javascript">
+                function ResolveUrl(url) {
+                    if (url.indexOf("~/") == 0) {
+                        url = baseUrl + url.substring(2);
+                    }
+                    return url;
+                }
+                var baseUrl = "/tra-cuu-dich-vu/";
+                function SearchData() {
+                    var values = document.getElementById('ContentHeaderTop_txt_Search');
+                if (values.value.length == 0)
+                    return;
+                var link = baseUrl + values.value.replace("/", "");
+
+                window.location.href = link;
+            }
+            function runScript2(e) {
+
+                if (event.which == 13 || event.keyCode == 13) {
+
+                    SearchData();
+                    window.event.returnValue = false;
+                }
+            }
+            function buttonSend() {
+                var hoten = document.getElementById("Contact_HoTen").value;
+                var dienthoai = document.getElementById("Contact_DienThoai").value;
+                var email = document.getElementById("Contact_Email").value;
+                var tieude = document.getElementById("Contact_TieuDe").value;
+                var noidung = document.getElementById("Contact_NoiDung").value;
+                SendMail(hoten, dienthoai, email, tieude, noidung);
+
+            }
+            function SendMail(hoten, dienthoai, email, tieude, noidung) {
+                var URLSite = "VienDiDongSolution.asmx/SendMail";
+                $(".modal").show();
+                $.ajax({
+                    url: URLSite,
+
+                    type: 'POST',
+                    data: { _Hoten: hoten, _DienThoai: dienthoai, _Email: email, _TieuDe: tieude, _NoiDung: noidung },
+                    dataType: "text",
+
+                    success: function (resp) {
+                        var repsValues = resp;
+                        if (resp == null)
+                            repsValues = resp.d;
+                        var kqCT = repsValues.toString().replace("<?xml version=\"1.0\" encoding=\"utf-8\"?>", "").replace("<string xmlns=\"http://tempuri.org/\">", "").replace("</string>", "").replace("<string xmlns=\"http://tempuri.org/\" />", "");  //3.5  
+                        alert(kqCT);
+                        document.getElementById("Contact_HoTen").value = "";
+                        document.getElementById("Contact_DienThoai").value = "";
+                        document.getElementById("Contact_Email").value = "";
+                        document.getElementById("Contact_TieuDe").value = "";
+                        document.getElementById("Contact_NoiDung").value = "";
+                        $(".modal").hide();
+                        document.getElementById("box_mail1").style = "block";
+                    }
+               ,
+                    error: function (e) {
+                        alert('Error: ' + e);
+                        $(".modal").hide();
+                    }
+                });
+
+            }
+            </script>
+            <script src='/Scripts/jquery.onscreen.custom.min.js'></script>
+            <script src='/Scripts/jquery.sticky-kit.min.js'></script>
+
+            <script src='/Scripts/common.js'></script>
+            <script src='/Scripts/fixHeight.js'></script>
+            <!--Start of Tawk.to Script-->
+            <script type="text/javascript">
+                var Tawk_API = Tawk_API || {}, Tawk_LoadStart = new Date();
+                (function () {
+                    var s1 = document.createElement("script"), s0 = document.getElementsByTagName("script")[0];
+                    s1.async = true;
+                    s1.src = 'https://embed.tawk.to/57592dad030c95fc582cef02/default';
+                    s1.charset = 'UTF-8';
+                    s1.setAttribute('crossorigin', '*');
+                    s0.parentNode.insertBefore(s1, s0);
+                })();
+            </script>
+            <!-- Google Code dành cho Thẻ tiếp thị lại -->
+<!--------------------------------------------------
+Không thể liên kết thẻ tiếp thị lại với thông tin nhận dạng cá nhân hay đặt thẻ tiếp thị lại trên các trang có liên quan đến danh mục nhạy cảm. Xem thêm thông tin và hướng dẫn về cách thiết lập thẻ trên: http://google.com/ads/remarketingsetup
+--------------------------------------------------->
+<script type="text/javascript">
+    var google_tag_params = {
+        ecomm_prodid: 'REPLACE_WITH_VALUE',
+        ecomm_pagetype: 'REPLACE_WITH_VALUE',
+        ecomm_totalvalue: 'REPLACE_WITH_VALUE',
+        dynx_itemid: 'REPLACE_WITH_VALUE',
+        dynx_itemid2: 'REPLACE_WITH_VALUE',
+        dynx_pagetype: 'REPLACE_WITH_VALUE',
+        dynx_totalvalue: 'REPLACE_WITH_VALUE',
+    };
+</script>
+<script type="text/javascript">
+    /* <![CDATA[ */
+    var google_conversion_id = 1006686144;
+    var google_custom_params = window.google_tag_params;
+    var google_remarketing_only = true;
+    /* ]]> */
+</script>
+<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+</script>
+<noscript>
+<div style="display:inline;">
+<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/1006686144/?guid=ON&amp;script=0"/>
+</div>
+</noscript>
+
+            <!--End of Tawk.to Script-->
+            
+    </form>
+</body>
+</html>

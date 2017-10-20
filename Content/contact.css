@@ -1,0 +1,155 @@
+﻿@charset 'UTF-8';
+/* CSS Document */
+.img-responsive {
+    display: inline-block;
+    height: auto;
+    max-width: 100%;
+		margin:0 auto;
+}
+footer{
+	margin-top:0px;
+}
+/*contact-info*/
+.contact-info{
+	margin-top:40px;
+	border-bottom:1px solid #ccc;
+	padding-bottom:30px;
+}
+.txt-des{
+	font-size:18px;
+	margin-bottom:30px;
+}
+.ttl-h3{
+	font-weight:bold;
+	font-size:22px;
+}
+.ttl-h3 span{
+    border: 2px solid #eee713;
+    border-radius: 50%;
+    display: inline-block;
+    font-size: 16px !important;
+    height: 30px;
+    line-height: 26px;
+    margin-right: 10px;
+    position: relative;
+    text-align: center;
+    width: 30px;
+		vertical-align:bottom;
+}
+.ttl-h3 span {
+    color: #eee713;
+		font-size:16px;
+}
+.ttl-h3 span {
+    border-radius: 50%;
+}
+
+.txt{
+	font-size:15px;
+	line-height:24px;
+}
+/*tab-contact*/
+.tab-contact{
+	margin-top:40px;
+}
+.tab-pane {
+	padding:20px 0;
+}
+.nav-tabs > li > a{
+	font-weight:bold;
+	font-size:19px;
+	color:#292929;
+}
+.nav-tabs > li.active > a, .nav-tabs > li.active > a:hover, .nav-tabs > li.active > a:focus{
+	color:#eee713;
+}
+.nav > li > a:hover, .nav > li > a:focus {
+    background-color: #eee713;
+    text-decoration: none;		
+}
+.form-contact{
+	width:60%;
+}
+.form-control:focus {
+	border-color:#eee713;
+}
+.btn-submit{	text-align:right;}
+.btn-submit .btn{
+	font-weight:bold;
+	background:#eee713;
+	color:#929292;
+	border:none;
+    width:20%;
+}
+.btn-submit .btn:hover{
+	color:#fff;
+	-webkit-transition: 0.4s;
+	-moz-transition: 0.4s;
+	-o-transition: 0.4s;
+	transition: 0.4s;
+}
+
+
+@media (min-width: 1200px) {
+}
+
+@media (min-width: 992px) and (max-width: 1199px) {
+
+}
+
+@media screen and (max-width: 991px) {
+	.txt-mv {
+		font-size:25px;
+		line-height:35px;
+	}
+	.ttl-h2{
+		font-size:25px;
+	}
+	#Subvisual h2{
+		top:60%;
+		left:10%;
+	}
+	#Subvisual h2 img{
+		max-width:400px;
+	}
+	
+}
+
+@media screen and (max-width : 767px) {
+	#Subvisual h2{
+		top:65%;
+		text-align:center;
+		left:0;
+		width:100%;
+	}
+	#Subvisual h2 img{
+		max-width:300px;
+	}
+	.form-contact{
+		width:100%;
+	}
+}
+
+@media screen and (max-width : 639px) {
+		.txt-mv {
+			font-size:18px;
+			line-height:30px;
+		}
+		.ttl-h2{
+			font-size:18px;
+		}
+}
+@media screen and (max-width : 639px) {
+	#Subvisual h2{
+		top:70%;
+	}
+}
+
+@media screen and (max-width : 479px) {
+	#Subvisual h2{
+		top:75%;
+	}
+	#Subvisual h2 img{
+		max-width:280px;
+	}
+}
